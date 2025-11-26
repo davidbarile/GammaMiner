@@ -175,7 +175,7 @@ public class GameManager : MonoBehaviour
         {
             PlayerPrefsManager.GetPlayerData();
             PlayerData.Data.SetSettings();
-            PlayerPrefsManager.GetLevelProgressData();
+            PlayerPrefsManager.GetMapProgressData();
         }
         else
         {
@@ -285,7 +285,7 @@ public class GameManager : MonoBehaviour
         return this.defaultPlayerData;
     }
 
-    public MapProgressData GetDefaultLevelProgressData()
+    public MapProgressData GetDefaultMapProgressData()
     {
         return this.defaultMapProgressData;
     }
@@ -330,7 +330,7 @@ public class GameManager : MonoBehaviour
     private void OnApplicationQuit()
     {
         PlayerPrefsManager.SavePlayerData();
-        PlayerPrefsManager.SaveLevelProgressData();
+        PlayerPrefsManager.SaveMapProgressData();
 #if UNITY_EDITOR
         UnityEditor.AssetDatabase.Refresh();
 #endif
@@ -341,7 +341,7 @@ public class GameManager : MonoBehaviour
         if (inIsPaused)
         {
             PlayerPrefsManager.SavePlayerData();
-            PlayerPrefsManager.SaveLevelProgressData();
+            PlayerPrefsManager.SaveMapProgressData();
         }
     }
 

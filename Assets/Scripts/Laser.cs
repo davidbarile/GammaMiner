@@ -230,7 +230,7 @@ public class Laser : MonoBehaviour
 
         float laserLength = 0;
 
-        var raycastRange = 20f;//TODO: make this based on ship mining laser range upgrade
+        var raycastRange = 50; //20f;//TODO: make this based on ship mining laser range upgrade
 
         var raycastHit = Physics2D.Raycast(this.transform.position, this.transform.up, raycastRange, LayerMask.GetMask("Default", "Rocks", "Both Maps", "Enemy Ships", "Enemy Shields"));
 
@@ -238,7 +238,7 @@ public class Laser : MonoBehaviour
         {
             this.hitTarget = raycastHit.collider.gameObject;
 
-            laserLength = (raycastHit.distance / this.laserScale) + .95f;
+            laserLength = (1.8f * (raycastHit.distance / this.laserScale)) + 1f;
 
             SetLasersVisible(true);
 
@@ -384,7 +384,7 @@ public class Laser : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D inCollider)
-    {
+    {        
         if (inCollider.gameObject != null)
         {
             this.hitTarget = inCollider.gameObject;

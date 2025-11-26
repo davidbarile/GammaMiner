@@ -12,13 +12,13 @@ public static class PlayerPrefsManager
     private static readonly string BACKUP_FILE_PATH = "Assets/PlayerData/PlayerData_bkup.json";
 
     private static readonly string MAP_PROGRESS_FILE_PATH = "Assets/PlayerData/MapProgressData.json";
-    private static readonly string MAP_PROGRESS_BACKUP_FILE_PATH = "Assets/PlayerData/LevelProgressData_bkup.json";
+    private static readonly string MAP_PROGRESS_BACKUP_FILE_PATH = "Assets/PlayerData/MapProgressData_bkup.json";
 #else
     private static readonly string FILE_PATH = Application.persistentDataPath + "/PlayerData.json";
     private static readonly string BACKUP_FILE_PATH = Application.persistentDataPath + "/PlayerData_bkup.json";
 
     private static readonly string MAP_PROGRESS_FILE_PATH = Application.persistentDataPath + "/MapProgressData.json";
-    private static readonly string MAP_PROGRESS_BACKUP_FILE_PATH = Application.persistentDataPath + "/LevelProgressData_bkup.json";
+    private static readonly string MAP_PROGRESS_BACKUP_FILE_PATH = Application.persistentDataPath + "/MapProgressData_bkup.json";
 #endif
 
     private static readonly string PLAYER_PREFS_EXIST = "PlayerDataExists";
@@ -100,7 +100,7 @@ public static class PlayerPrefsManager
         return PlayerData.Data;
     }
 
-    public static MapProgressData GetLevelProgressData()
+    public static MapProgressData GetMapProgressData()
     {
         DeserializeSettings deserializeSettings = new DeserializeSettings()
         {
@@ -111,8 +111,8 @@ public static class PlayerPrefsManager
         try
         {
             // Load from text file
-            JSON savedLevelProgressDataJSON = LoadTextFileToJsonObject(PlayerPrefsManager.MAP_PROGRESS_FILE_PATH);
-            MapProgressData.Data = savedLevelProgressDataJSON.Deserialize<MapProgressData>(deserializeSettings);
+            JSON savedMapProgressDataJSON = LoadTextFileToJsonObject(PlayerPrefsManager.MAP_PROGRESS_FILE_PATH);
+            MapProgressData.Data = savedMapProgressDataJSON.Deserialize<MapProgressData>(deserializeSettings);
             success = true;
         }
         catch
@@ -120,22 +120,22 @@ public static class PlayerPrefsManager
             try
             {
                 //load backup MapProgressData from file, created (hopefully) before corruption of data
-                JSON backupLevelProgressDataJSON = LoadTextFileToJsonObject(PlayerPrefsManager.MAP_PROGRESS_BACKUP_FILE_PATH);
-                MapProgressData.Data = backupLevelProgressDataJSON.Deserialize<MapProgressData>(deserializeSettings);
+                JSON backupMapProgressDataJSON = LoadTextFileToJsonObject(PlayerPrefsManager.MAP_PROGRESS_BACKUP_FILE_PATH);
+                MapProgressData.Data = backupMapProgressDataJSON.Deserialize<MapProgressData>(deserializeSettings);
 
                 Debug.Log("<color=red>FAILED TO LOAD MapProgressData, using backup data instead</color>");
             }
             catch
             {
-                MapProgressData.Data = GameManager.IN.GetDefaultLevelProgressData();
+                MapProgressData.Data = GameManager.IN.GetDefaultMapProgressData();
 
-                Debug.Log("<color=red>FAILED TO LOAD BACKUP_LevelProgressData, loading default MapProgressData instead</color>");
+                Debug.Log("<color=red>FAILED TO LOAD BACKUP_MapProgressData, loading default MapProgressData instead</color>");
             }
         }
 
         //save backup MapProgressData to file, from freshly loaded, uncorrupted data
         if (success)
-            SaveBackupLevelProgressData();
+            SaveBackupMapProgressData();
 
         return MapProgressData.Data;
     }
@@ -173,15 +173,15 @@ public static class PlayerPrefsManager
         writer.Close();
     }
 
-    public static void SaveLevelProgressData()
+    public static void SaveMapProgressData()
     {
         // Serialize MapProgressData to JSON object
-        JSON LevelProgressDataJSON = JSON.Serialize(MapProgressData.Data);
+        JSON MapProgressDataJSON = JSON.Serialize(MapProgressData.Data);
         
 #if UNITY_EDITOR
-        string jsonAsString = LevelProgressDataJSON.CreatePrettyString();
+        string jsonAsString = MapProgressDataJSON.CreatePrettyString();
 #else
-        string jsonAsString = LevelProgressDataJSON.CreateString();
+        string jsonAsString = MapProgressDataJSON.CreateString();
 #endif
 
         var writer = new StreamWriter(PlayerPrefsManager.MAP_PROGRESS_FILE_PATH);
@@ -189,14 +189,14 @@ public static class PlayerPrefsManager
         writer.Close();
     }
 
-    public static void SaveBackupLevelProgressData()
+    public static void SaveBackupMapProgressData()
     {
-        JSON backupLevelProgressDataJSON = JSON.Serialize(MapProgressData.Data);
+        JSON backupMapProgressDataJSON = JSON.Serialize(MapProgressData.Data);
 
 #if UNITY_EDITOR
-        string jsonAsString = backupLevelProgressDataJSON.CreatePrettyString();
+        string jsonAsString = backupMapProgressDataJSON.CreatePrettyString();
 #else
-        string jsonAsString = backupLevelProgressDataJSON.CreateString();
+        string jsonAsString = backupMapProgressDataJSON.CreateString();
 #endif
 
         var writer = new StreamWriter(PlayerPrefsManager.MAP_PROGRESS_BACKUP_FILE_PATH);
@@ -215,7 +215,7 @@ public static class PlayerPrefsManager
         backupWriter.Close();
     }
 
-    public static void DeleteLevelProgressData()
+    public static void DeleteMapProgressData()
     {
         var writer = new StreamWriter(PlayerPrefsManager.MAP_PROGRESS_FILE_PATH);
         writer.WriteLine(string.Empty);
