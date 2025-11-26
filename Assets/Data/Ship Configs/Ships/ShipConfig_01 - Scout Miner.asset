@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37ebfc7eef3846ab916c5936bdf7c0d, type: 3}
+  m_Name: ShipConfig_01 - Scout Miner
+  m_EditorClassIdentifier: 
+  Name: Scout
+  SubTitle: Miner
+  Id: ShipConfig_01 - Scout Miner
+  shouldAutoGenerateId: 0
+  Price: 1000
+  ShopItemType: 3
+  Sprite: {fileID: -389870187, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
+  Quantity: 1
+  NumTilesRequired: 0
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  OverwriteTypeDescription: 0
+  Description: 
+  PrefabName: Ship_Scout
+  NumTiles: 100
+  NumExternalMounts: 2
+  MaxShieldRings: 0
+  MaxTurrets: 0
+  totalShipHealth: 150
+  HealthDatas:
+  - Type: 0
+    Health: 50
+  - Type: 1
+    Health: 30
+  - Type: 9
+    Health: 40
+  - Type: 9
+    Health: 40
+  - Type: 4
+    Health: 40
+  DecelerationRate: 5
+  RotationSpeed: 8
+  ReactorData: {fileID: 11400000, guid: 9b151ee678aa046f5b50110ad58781f0, type: 2}
+  BatteryData: {fileID: 11400000, guid: 04204ddf4ac5e4e54a78d349cc98b008, type: 2}
+  ShieldGeneratorData: {fileID: 0}
+  VaultDatas:
+  - {fileID: 11400000, guid: e0b20b8d71bca4948ba204789acbad1c, type: 2}
+  - {fileID: 11400000, guid: f7494945c34fb40ec85b9d469b0ebd4e, type: 2}
+  ThrusterDatas:
+  - {fileID: 11400000, guid: b09ed8b57354a411ab568e085743a0d1, type: 2}
+  RailGunDatas:
+  - {fileID: 11400000, guid: ea104dff4f8614a8cb7f90299f21becc, type: 2}
+  - {fileID: 11400000, guid: 596470ac8e55341278b3b00630ab54ef, type: 2}
+  MissileLauncherDatas:
+  - {fileID: 11400000, guid: ecd030560c0f4441c8ec5ad22be64623, type: 2}
+  - {fileID: 11400000, guid: ecd030560c0f4441c8ec5ad22be64623, type: 2}
+  LaserCannonDatas:
+  - {fileID: 11400000, guid: 0ee5f67f26bec4bfb950550caaf2129b, type: 2}
+  - {fileID: 11400000, guid: 2278fec82220c4103b037966fd7d150a, type: 2}
+  TurretDatas: []

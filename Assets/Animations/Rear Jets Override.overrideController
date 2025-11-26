@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rear Jets Override
+  m_Controller: {fileID: 9100000, guid: a4cd87ce3251149cd845a64c7a8abb99, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c84d567d54732480cbd84cc75f561d22, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c84d567d54732480cbd84cc75f561d22, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3d97a9eaa136849a7bebcb3b79500537, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 162898d52791845e2b78ab86184c0ef6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bc51f3bb52a684a67834a1a9a799eb9a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0674b31e68614decb4756d141168901, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0474efc2fdc0d45fda8892e7bc1a5dc1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 354080e71b3ae42d0903782eb34a23a8, type: 2}

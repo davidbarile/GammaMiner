@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0af3008f7e1164659960a555cd79f5bf, type: 3}
+  m_Name: ShopCategory - Railguns
+  m_EditorClassIdentifier: 
+  Name: Railguns
+  Sprite: {fileID: -5820093537878525706, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
+  ItemDatas:
+  - {fileID: 11400000, guid: 38f35ebd8b31a4be69659eba22ac20c6, type: 2}
+  - {fileID: 11400000, guid: ea104dff4f8614a8cb7f90299f21becc, type: 2}
+  - {fileID: 11400000, guid: 596470ac8e55341278b3b00630ab54ef, type: 2}

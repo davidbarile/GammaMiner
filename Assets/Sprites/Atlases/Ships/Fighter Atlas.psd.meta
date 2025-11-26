@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: d117bd07180524e90b959f44ee25ec40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9053287631932602385
+    second: Missile
+  - first:
+      213: -1254087485220189921
+    second: Bullet
+  - first:
+      213: -6082049594470949088
+    second: Shield_Brick_Outer
+  - first:
+      213: 9200930839310700110
+    second: Ship_01_Body
+  - first:
+      213: 4038877235457627255
+    second: Ship_01_Main_Thrust_Top
+  - first:
+      213: 4715904876663176967
+    second: Laser
+  - first:
+      213: 2861368998809250521
+    second: Ship_01_Wing_Gun_Tip
+  - first:
+      213: 2589190956153732372
+    second: Shield_Brick_Middle
+  - first:
+      213: -8589397414159081296
+    second: Ship_01_Wing_Gun
+  - first:
+      213: 7239715887406884348
+    second: Shield_Brick_Inner
+  - first:
+      213: -2592633701339908557
+    second: Ship_01_Side_Thrust
+  - first:
+      213: 7742739629962395654
+    second: Ship_01_Wing_Body
+  - first:
+      213: -4305108437019179488
+    second: Ship_01_Wing_Strut
+  - first:
+      213: -9099749423473740794
+    second: Ship_01_Wing_Jets
+  - first:
+      213: 6514858513698125743
+    second: Ship_01_Nose
+  - first:
+      213: 8180993244684772866
+    second: Ship_01_Cockpit
+  - first:
+      213: 3223223859587832016
+    second: Ship_01_Rear
+  - first:
+      213: -2793684601383246082
+    second: Ship_01_Jets
+  - first:
+      213: -5719963518623738843
+    second: Missile_Fin
+  - first:
+      213: -4118782473360081522
+    second: Ship_01_Main_Thrust_Tail
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thrust Belt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1983
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a776774cfb4ea3acac4484b02f422
+      internalID: 1809583865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1891
+        width: 165
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5066783, y: 0.12050927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4402ba2e0c34a8e9a4dd9a8359846c
+      internalID: -1047972766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail Nub
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1907
+        width: 98
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3767e171f04d3fa6a3389a3483489
+      internalID: 760694416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body  + Neck
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1284
+        width: 364
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a4af41daf34e0cbab8e17bb8659a1
+      internalID: -1259696471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 995
+        width: 966
+        height: 1041
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10e770197bc42daa68009ce229ed03
+      internalID: -83259736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round Rect
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1919
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba754ef763a457dbfe5a56b7f81245
+      internalID: 1685490379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Port
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1920
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e340fc758b64da09c3f1e1722ae1a7
+      internalID: 241207161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1843
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac737c4c3bba1473a8d41e5825eb1b30
+      internalID: 51271705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing - Tail fin
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1713
+        width: 131
+        height: 177
+      alignment: 9
+      pivot: {x: 0.05416078, y: 0.54333425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35967641980674db08cb1ae4e0706f4e
+      internalID: -1334653600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cockpit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1381
+        width: 250
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87144e805c464f4bb7677c8b197d3af
+      internalID: -472753466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing -Thin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 373
+        height: 185
+      alignment: 9
+      pivot: {x: 0.021393172, y: 0.58339185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b63b5da39f7243fea174a72d1eaa6a1
+      internalID: 1971541692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 813
+        width: 440
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e797885003cd41998b28ef96411741c
+      internalID: 1341511698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1259
+        width: 255
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81d55ec9a004b258b3919399fc34d7
+      internalID: 1061915016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing - Fat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 217
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43981f445414306a8ccf833c129007
+      internalID: 746787086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wing - Tiny
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1726
+        width: 104
+        height: 112
+      alignment: 9
+      pivot: {x: 0.09735407, y: 0.5196762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1490efa5d89413081f475d8a22d5ef
+      internalID: -2074430065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Body_Back
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1
+        width: 560
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012c7ca9fce34c5f947d1dc2eab5193
+      internalID: -304582628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Body_Front
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 441
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3171934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb57fb19410477ea465ab7fde8cb11
+      internalID: -1271122614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Nose
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 4
+        width: 208
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5118916, y: 0.18328083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61458e89f26448a7a13086450daed8d
+      internalID: 157315997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Wing_Thin
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6
+        width: 386
+        height: 219
+      alignment: 9
+      pivot: {x: 0.9365832, y: 0.5725947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f668c8a78dc4b21af9ac58529edf56
+      internalID: -1797803926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Wing_Thick
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 249
+        width: 246
+        height: 348
+      alignment: 9
+      pivot: {x: 0.8591822, y: 0.63248533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ad9064b6ce4a2a89bfe121dc747d4
+      internalID: 1217381700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Wing_Med
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 146
+        height: 176
+      alignment: 9
+      pivot: {x: 0.08048489, y: 0.49303934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df93ec25d5b64cf3940e214bb0634b2
+      internalID: 1394017229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Wing_Tiny
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 137
+        height: 133
+      alignment: 9
+      pivot: {x: 0.9068373, y: 0.52763057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152a54e48a7594e049146a445dc463a2
+      internalID: -2077386188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Thruster
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 101
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5182966, y: 0.93428975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774c09393ea940b4bc6bb11b8d5f6c4
+      internalID: 712218891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Socket1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 234
+        width: 77
+        height: 152
+      alignment: 9
+      pivot: {x: 0.22000836, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5d9290b0c24c73868ee960262bfac
+      internalID: -1916510943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Socket2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 68
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7904c8c0f110741829956558013a7b7f
+      internalID: 640115374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter_Cockpit
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 246
+        width: 253
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304cf8a1378a493d8aa258cf86930db
+      internalID: 1216583432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter__Turret
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 244
+        width: 265
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e8b6354baf4c048d969f56d28f6a2
+      internalID: 1149903276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Body: 1341511698
+      Body  + Neck: -1259696471
+      Cannon: 1061915016
+      Cockpit: -472753466
+      Fighter Atlas_13: 2012285817
+      Fighter Atlas_14: 198436577
+      Fighter Atlas_15: -1184390086
+      Fighter Atlas_19: -1459875943
+      Fighter Atlas_20: 1722992334
+      Fighter Atlas_21: 1717518792
+      Fighter Atlas_22: -931109023
+      Fighter Atlas_9: 1764561694
+      Fighter_Body_Back: -304582628
+      Fighter_Body_Front: -1271122614
+      Fighter_Cockpit: 1216583432
+      Fighter_Nose: 157315997
+      Fighter_Socket1: -1916510943
+      Fighter_Socket2: 640115374
+      Fighter_Thruster: 712218891
+      Fighter_Wing_Med: 1394017229
+      Fighter_Wing_Thick: 1217381700
+      Fighter_Wing_Thin: -1797803926
+      Fighter_Wing_Tiny: -2077386188
+      Fighter__Turret: 1149903276
+      Mount: 51271705
+      Nose: -1047972766
+      Port: 241207161
+      Round Rect: 1685490379
+      Tail Nub: 760694416
+      Template: -83259736
+      Thrust Belt: 1809583865
+      Wing - Fat: 746787086
+      Wing - Tail fin: -1334653600
+      Wing - Tiny: -2074430065
+      Wing -Thin: 1971541692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

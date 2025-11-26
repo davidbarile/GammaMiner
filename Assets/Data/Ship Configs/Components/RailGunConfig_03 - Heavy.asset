@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: affead368c043498c93c004af82e1e37, type: 3}
+  m_Name: RailGunConfig_03 - Heavy
+  m_EditorClassIdentifier: 
+  Name: RailGun
+  SubTitle: Heavy
+  Id: RailGunConfig_03 - Heavy
+  shouldAutoGenerateId: 1
+  Price: 200
+  ShopItemType: 11
+  Sprite: {fileID: 7876743920625018655, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
+  Quantity: 1
+  NumTilesRequired: 7
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  OverwriteTypeDescription: 0
+  Description: 
+  NumExternalMountsRequired: 2
+  RoundsPerSecond: 15
+  MaxRoundsLight: 0
+  MaxRoundsMedium: 500
+  MaxRoundsHeavy: 200
+  PrefabName: RailRound

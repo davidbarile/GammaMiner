@@ -1,0 +1,5 @@
+/Users/davidbarile/Unity Projects/Gamma Miner/.utmp/RelWithDebInfo/1z6y162z/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/davidbarile/Unity Projects/Gamma Miner/.utmp/RelWithDebInfo/1z6y162z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/davidbarile/Unity Projects/Gamma Miner/.utmp/RelWithDebInfo/1z6y162z/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/davidbarile/Unity Projects/Gamma Miner/.utmp/RelWithDebInfo/1z6y162z/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/davidbarile/Unity Projects/Gamma Miner/.utmp/RelWithDebInfo/1z6y162z/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

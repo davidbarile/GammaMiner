@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 3b2b0c398150544fe922e0cde948cdfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9053287631932602385
+    second: Missile
+  - first:
+      213: -1254087485220189921
+    second: Bullet
+  - first:
+      213: -6082049594470949088
+    second: Shield_Brick_Outer
+  - first:
+      213: 9200930839310700110
+    second: Ship_01_Body
+  - first:
+      213: 4038877235457627255
+    second: Ship_01_Main_Thrust_Top
+  - first:
+      213: 4715904876663176967
+    second: Laser
+  - first:
+      213: 2861368998809250521
+    second: Ship_01_Wing_Gun_Tip
+  - first:
+      213: 2589190956153732372
+    second: Shield_Brick_Middle
+  - first:
+      213: -8589397414159081296
+    second: Ship_01_Wing_Gun
+  - first:
+      213: 7239715887406884348
+    second: Shield_Brick_Inner
+  - first:
+      213: -2592633701339908557
+    second: Ship_01_Side_Thrust
+  - first:
+      213: 7742739629962395654
+    second: Ship_01_Wing_Body
+  - first:
+      213: -4305108437019179488
+    second: Ship_01_Wing_Strut
+  - first:
+      213: -9099749423473740794
+    second: Ship_01_Wing_Jets
+  - first:
+      213: 6514858513698125743
+    second: Ship_01_Nose
+  - first:
+      213: 8180993244684772866
+    second: Ship_01_Cockpit
+  - first:
+      213: 3223223859587832016
+    second: Ship_01_Rear
+  - first:
+      213: -2793684601383246082
+    second: Ship_01_Jets
+  - first:
+      213: -5719963518623738843
+    second: Missile_Fin
+  - first:
+      213: -4118782473360081522
+    second: Ship_01_Main_Thrust_Tail
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missile
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1715
+        width: 73
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b7c6822db3ad70800000000000000
+      internalID: 9053287631932602385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1987
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19003e9316989ee0800000000000000
+      internalID: -1254087485220189921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Brick_Outer
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1081
+        width: 190
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 41, z: 58, w: 50}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f104f2e18389ba0800000000000000
+      internalID: -6082049594470949088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Body
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1620
+        width: 386
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e0d0889d540bf70800000000000000
+      internalID: 9200930839310700110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Main_Thrust_Top
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1799
+        width: 293
+        height: 237
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741dde5279fc0830800000000000000
+      internalID: 4038877235457627255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1912
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 46, z: 40, w: 46}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f7a08df72427140800000000000000
+      internalID: 4715904876663176967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Wing_Gun_Tip
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1897
+        width: 14
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2759b1ff95b720800000000000000
+      internalID: 2861368998809250521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Brick_Middle
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 970
+        width: 180
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 43, z: 58, w: 55}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d723dd477aee320800000000000000
+      internalID: 2589190956153732372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Wing_Gun
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1823
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a3667f845cc880800000000000000
+      internalID: -8589397414159081296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Brick_Inner
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 832
+        width: 192
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 51, z: 65, w: 58}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a3afed33a87460800000000000000
+      internalID: 7239715887406884348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Side_Thrust
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 900
+        width: 56
+        height: 787
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336bdee826d150cd0800000000000000
+      internalID: -2592633701339908557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Wing_Body
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1533
+        width: 102
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008f30bbacb37b60800000000000000
+      internalID: 7742739629962395654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Wing_Strut
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1610
+        width: 111
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 27, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264feb9fae2144c0800000000000000
+      internalID: -4305108437019179488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Wing_Jets
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1442
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60438c4ac1237b180800000000000000
+      internalID: -9099749423473740794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Nose
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1467
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f7ee0d4d696a50800000000000000
+      internalID: 6514858513698125743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Cockpit
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1262
+        width: 181
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066e43e20ab88170800000000000000
+      internalID: 8180993244684772866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Rear
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1310
+        width: 425
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8db4ed5013bbc20800000000000000
+      internalID: 3223223859587832016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Jets
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1187
+        width: 151
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a21818a6da39d0800000000000000
+      internalID: -2793684601383246082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile_Fin
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1882
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241d384c7b9e90b0800000000000000
+      internalID: -5719963518623738843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship_01_Main_Thrust_Tail
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 959
+        width: 147
+        height: 837
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d7448a92527d6c0800000000000000
+      internalID: -4118782473360081522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner Body
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1782
+        width: 319
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef895122e838d41178934051c126a6b5
+      internalID: -439486177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner Claw
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1918
+        width: 152
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e2e1386b564266accf3f3eafcf788
+      internalID: 534398609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner Cockpit
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1790
+        width: 210
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c245d09ee0b0478388f49c63f4dca7a
+      internalID: -1925830412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner Ellipse
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1985
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014fc872da3e46f98832d629981c7c7
+      internalID: -498659107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1967
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca8391bedaf421fb15007a9d81b4be
+      internalID: 2106244629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Head
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2020
+        width: 49
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe9c84ad535484e9622a035c4b46bb
+      internalID: -1273903597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Body
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2009
+        width: 49
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2a0f611df74e64b4f9a72b5274480
+      internalID: -1438045966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Tail
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1981
+        width: 49
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0ae969ddca44459b81ea8f696dd7e
+      internalID: 1330117697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silhouette_outline
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 943
+        width: 464
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b748bc9c6d464274ab28e7dde1848b9
+      internalID: -1048319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silhouette_fill
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1357
+        width: 464
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df868547c97743a1a320cc05c594bf3
+      internalID: -634583157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bullet: -1254087485220189921
+      Circle: 2106244629
+      Laser: 4715904876663176967
+      Laser_Body: -1438045966
+      Laser_Head: -1273903597
+      Laser_Tail: 1330117697
+      Miner Body: -439486177
+      Miner Claw: 534398609
+      Miner Cockpit: -1925830412
+      Miner Ellipse: -498659107
+      Missile: 9053287631932602385
+      Missile_Fin: -5719963518623738843
+      Shield_Brick_Inner: 7239715887406884348
+      Shield_Brick_Middle: 2589190956153732372
+      Shield_Brick_Outer: -6082049594470949088
+      Ship_01_Body: 9200930839310700110
+      Ship_01_Cockpit: 8180993244684772866
+      Ship_01_Jets: -2793684601383246082
+      Ship_01_Main_Thrust_Tail: -4118782473360081522
+      Ship_01_Main_Thrust_Top: 4038877235457627255
+      Ship_01_Nose: 6514858513698125743
+      Ship_01_Rear: 3223223859587832016
+      Ship_01_Side_Thrust: -2592633701339908557
+      Ship_01_Wing_Body: 7742739629962395654
+      Ship_01_Wing_Gun: -8589397414159081296
+      Ship_01_Wing_Gun_Tip: 2861368998809250521
+      Ship_01_Wing_Jets: -9099749423473740794
+      Ship_01_Wing_Strut: -4305108437019179488
+      Silhouette_fill: -634583157
+      Silhouette_outline: -1048319525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

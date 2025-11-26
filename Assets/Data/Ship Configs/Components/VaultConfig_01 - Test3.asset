@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d3a941c2cc540179b6bad7174546da, type: 3}
+  m_Name: VaultConfig_01 - Test3
+  m_EditorClassIdentifier: 
+  Name: Vault
+  SubTitle: Test RB
+  Id: VaultConfig_01 - Test3
+  shouldAutoGenerateId: 1
+  Price: 50
+  ShopItemType: 6
+  Sprite: {fileID: 5385421891632332444, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
+  Quantity: 1
+  NumTilesRequired: 20
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  OverwriteTypeDescription: 0
+  Description: 
+  Capacity: 10
+  AllowedCrystalTypes: 6
+  MaxRadiationLevel: 10
+  MaxRadiationFlushes: 5
+  RadiationShielding: 0
+  SpriteIndex: 0

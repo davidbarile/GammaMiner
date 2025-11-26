@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 484fb3c66296449eeb50eb40f9a310f7, type: 3}
+  m_Name: Prog_Test
+  m_EditorClassIdentifier: Assembly-CSharp::ProgressionConfig
+  lootSummary: "Loot items: 200-300\n   Energy: 40000-90000  (200-300 loot items)\n"
+  ProgressData:
+    Level: 0
+    CriteriaToComplete: 
+    RockLoot:
+    - LootData: {fileID: 11400000, guid: 8f0f2e47d0f8f409cbb67ac774e25852, type: 2}
+      QuantityMinMax:
+        MinQuantity: 200
+        MaxQuantity: 300
+        MinMaxWeightFactor: 1

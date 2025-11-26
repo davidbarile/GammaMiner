@@ -1,0 +1,10 @@
+# Ignored folders
+/Builds/*
+/Logs/*
+/Library/*
+/Temp/*
+/Obj/*
+
+# Builds
+*.apk
+*.unitypackage

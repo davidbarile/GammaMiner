@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37ebfc7eef3846ab916c5936bdf7c0d, type: 3}
+  m_Name: ShipConfig_01 - Scout Default
+  m_EditorClassIdentifier: 
+  Name: Scout
+  SubTitle: Default
+  Id: ShipConfig_01 - Scout Default
+  shouldAutoGenerateId: 0
+  Price: 1000
+  ShopItemType: 3
+  Sprite: {fileID: -389870187, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
+  Quantity: 1
+  NumTilesRequired: 0
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  OverwriteTypeDescription: 0
+  Description: 
+  PrefabName: Ship_Scout
+  NumTiles: 75
+  NumExternalMounts: 2
+  MaxShieldRings: 0
+  MaxTurrets: 0
+  totalShipHealth: 200
+  HealthDatas:
+  - Type: 0
+    Health: 50
+  - Type: 1
+    Health: 30
+  - Type: 9
+    Health: 40
+  - Type: 9
+    Health: 40
+  - Type: 4
+    Health: 40
+  DecelerationRate: 5
+  RotationSpeed: 8
+  ReactorData: {fileID: 11400000, guid: 9b151ee678aa046f5b50110ad58781f0, type: 2}
+  BatteryData: {fileID: 11400000, guid: 04204ddf4ac5e4e54a78d349cc98b008, type: 2}
+  ShieldGeneratorData: {fileID: 0}
+  VaultDatas:
+  - {fileID: 11400000, guid: e0b20b8d71bca4948ba204789acbad1c, type: 2}
+  ThrusterDatas:
+  - {fileID: 11400000, guid: b09ed8b57354a411ab568e085743a0d1, type: 2}
+  RailGunDatas:
+  - {fileID: 11400000, guid: 38f35ebd8b31a4be69659eba22ac20c6, type: 2}
+  - {fileID: 11400000, guid: 38f35ebd8b31a4be69659eba22ac20c6, type: 2}
+  MissileLauncherDatas:
+  - {fileID: 11400000, guid: c6470f156e767421f97d4b05fe7ecd9b, type: 2}
+  - {fileID: 11400000, guid: c6470f156e767421f97d4b05fe7ecd9b, type: 2}
+  LaserCannonDatas:
+  - {fileID: 11400000, guid: 49dca5d8d61664d4ea28ce1faef4d410, type: 2}
+  - {fileID: 11400000, guid: 49dca5d8d61664d4ea28ce1faef4d410, type: 2}
+  TurretDatas: []

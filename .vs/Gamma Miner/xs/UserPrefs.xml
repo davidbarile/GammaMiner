@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{0730E982-4EFA-93A9-8A81-B992C3F6AE6D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b01458bb-7546-48cd-ac6b-41078fc0357e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NavMeshComponents/Scripts/NavMeshSurface.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" />
+      <File FileName="Assets/Scripts/SpaceShip.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/ShipData.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/ShipConfig.cs" />
+      <File FileName="Assets/Scripts/Data/PlayerData.cs" />
+      <File FileName="Assets/Scripts/SpaceStation.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/ThrusterConfig.cs" />
+      <File FileName="Assets/Scripts/HealthEntity.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/BatteryConfig.cs" />
+      <File FileName="Assets/Scripts/UIShopItemButton.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/RailGunRoundsConfig.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/MissilesConfig.cs" />
+      <File FileName="Assets/Scripts/Data/ShopItemDataBase.cs" />
+      <File FileName="Assets/Scripts/Data/ShopItemConfig.cs" />
+      <File FileName="Assets/Scripts/HealthEntityParent.cs" />
+      <File FileName="Assets/Scripts/HUD.cs" />
+      <File FileName="Assets/Scripts/Managers/LevelManager.cs" />
+      <File FileName="Assets/Scripts/DirectionStick.cs" />
+      <File FileName="Assets/Scripts/StickController.cs" />
+      <File FileName="Assets/Scripts/ShipBase.cs" />
+      <File FileName="Assets/Scripts/Managers/InputManager.cs" />
+      <File FileName="Assets/Scripts/UISettingsPanel.cs" />
+      <File FileName="Assets/Scripts/Data/Ship Config Scripts/ReactorConfig.cs" />
+      <File FileName="Assets/Scripts/UIShopPanel.cs" />
+      <File FileName="Assets/Scripts/Cockpit.cs" />
+      <File FileName="Assets/NavMeshComponents/Scripts/NavMeshSurface.cs" Line="348" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gamma Miner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NavMeshComponents" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="NavMeshSurface.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Managers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

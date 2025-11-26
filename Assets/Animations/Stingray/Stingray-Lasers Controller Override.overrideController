@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stingray-Lasers Controller Override
+  m_Controller: {fileID: 9100000, guid: 229b0939d319e4ac4b52602bd529c483, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5b9373625379e4166800608f5b2c3ef4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e0e016ef48c214f9384cb0ba172ae149, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5efb00ee4cf0c419f8658d39163d8492, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7c41aeb37b31c48039456441b452b429, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60e475cdaeaee42ea9701b4d891906f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1a4501cd5600042e08cdd6c4c8acaf6c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1958dec270c04b2ca138e6557e51a55, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5cc835f0bc35e4e578b732542dddd5e2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b978b43cb52ff4949bd121ebb25af85d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd8528eeaedc4458cbd25772c14eb1e2, type: 2}

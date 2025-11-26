@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CW.Common.csproj" />
+  <Project Path="NavMeshPlusEditor.csproj" />
+  <Project Path="LeanCommon.csproj" />
+  <Project Path="NavMeshPlus.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="LeanTouch.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="LeanPool.csproj" />
+  <Project Path="Sirenix.OdinInspector.Modules.UnityMathematics.csproj" />
+</Solution>

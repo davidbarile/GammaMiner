@@ -1,0 +1,8511 @@
+{
+	"MapSaveDatas": [
+		{
+			"MapNum": 0,
+			"DirtyRocks": {
+				"Rock_303": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_82": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_898": {
+					"RockName": "Rock_5",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_626": {
+					"RockName": "Rock_8",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_73": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_204": {
+					"RockName": "Rock_133",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_912": {
+					"RockName": "Rock_19",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_671": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_927": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_87": {
+					"RockName": "Rock_16",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_962": {
+					"RockName": "Rock_18",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_217": {
+					"RockName": "Rock_146",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_498": {
+					"RockName": "Rock_129",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_661": {
+					"RockName": "Rock_6",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_620": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_728": {
+					"RockName": "Rock_60",
+					"TimeMined": -1,
+					"Health": 37,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_1002": {
+					"RockName": "Rock_14",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_722": {
+					"RockName": "Rock_54",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_1069": {
+					"RockName": "Rock_28",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_833": {
+					"RockName": "Rock_165",
+					"TimeMined": -1,
+					"Health": 91,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_813": {
+					"RockName": "Rock_145",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_648": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 60,
+					"MaxLootQuantity": 60
+				},
+				"Rock_188": {
+					"RockName": "Rock_117",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_80": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_781": {
+					"RockName": "Rock_113",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 17,
+					"MaxLootQuantity": 17
+				},
+				"Rock_608": {
+					"RockName": "Rock_6",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_975": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_986": {
+					"RockName": "Rock_8",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_226": {
+					"RockName": "Rock_155",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 60,
+					"MaxLootQuantity": 60
+				},
+				"Rock_63": {
+					"RockName": "Rock_27",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 140,
+					"MaxLootQuantity": 140
+				},
+				"Rock_468": {
+					"RockName": "Rock_99",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 90,
+					"MaxLootQuantity": 90
+				},
+				"Rock_678": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_105": {
+					"RockName": "Rock_34",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_138": {
+					"RockName": "Rock_67",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 170,
+					"MaxLootQuantity": 170
+				},
+				"Rock_212": {
+					"RockName": "Rock_141",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 110,
+					"MaxLootQuantity": 110
+				},
+				"Rock_675": {
+					"RockName": "Rock_7",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 3,
+					"MaxLootQuantity": 3
+				},
+				"Rock_660": {
+					"RockName": "Rock_5",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_257": {
+					"RockName": "Rock_186",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_835": {
+					"RockName": "Rock_167",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_1025": {
+					"RockName": "Rock_7",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 150,
+					"MaxLootQuantity": 150
+				},
+				"Rock_455": {
+					"RockName": "Rock_86",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_725": {
+					"RockName": "Rock_57",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_1112": {
+					"RockName": "Rock_17",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_362": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_611": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_165": {
+					"RockName": "Rock_94",
+					"TimeMined": 1764091278,
+					"Health": -5,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_98": {
+					"RockName": "Rock_27",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 3,
+					"MaxLootQuantity": 3
+				},
+				"Rock_241": {
+					"RockName": "Rock_170",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 220,
+					"MaxLootQuantity": 220
+				},
+				"Rock_183": {
+					"RockName": "Rock_112",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_301": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 460,
+					"MaxLootQuantity": 460
+				},
+				"Rock_1021": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_369": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_96": {
+					"RockName": "Rock_25",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_515": {
+					"RockName": "Rock_146",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_1003": {
+					"RockName": "Rock_15",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_304": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_747": {
+					"RockName": "Rock_79",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_1026": {
+					"RockName": "Rock_8",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_184": {
+					"RockName": "Rock_113",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_1068": {
+					"RockName": "Rock_27",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_434": {
+					"RockName": "Rock_65",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_252": {
+					"RockName": "Rock_181",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_535": {
+					"RockName": "Rock_166",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_128": {
+					"RockName": "Rock_57",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_1015": {
+					"RockName": "Rock_27",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_501": {
+					"RockName": "Rock_132",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_926": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_511": {
+					"RockName": "Rock_142",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_680": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 3,
+					"MaxLootQuantity": 3
+				},
+				"Rock_505": {
+					"RockName": "Rock_136",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 16,
+					"MaxLootQuantity": 16
+				},
+				"Rock_70": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 7,
+					"MaxLootQuantity": 7
+				},
+				"Rock_532": {
+					"RockName": "Rock_163",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_688": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_543": {
+					"RockName": "Rock_174",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_66": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_692": {
+					"RockName": "Rock_24",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_903": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_854": {
+					"RockName": "Rock_186",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_350": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_649": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 190,
+					"MaxLootQuantity": 190
+				},
+				"Rock_104": {
+					"RockName": "Rock_33",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_363": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_905": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 170,
+					"MaxLootQuantity": 170
+				},
+				"Rock_446": {
+					"RockName": "Rock_77",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_763": {
+					"RockName": "Rock_95",
+					"TimeMined": 1764091276,
+					"Health": -5,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 170,
+					"MaxLootQuantity": 170
+				},
+				"Rock_253": {
+					"RockName": "Rock_182",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_102": {
+					"RockName": "Rock_31",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_542": {
+					"RockName": "Rock_173",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_938": {
+					"RockName": "Rock_15",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_234": {
+					"RockName": "Rock_163",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_242": {
+					"RockName": "Rock_171",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_152": {
+					"RockName": "Rock_81",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_787": {
+					"RockName": "Rock_119",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 500,
+					"MaxLootQuantity": 500
+				},
+				"Rock_240": {
+					"RockName": "Rock_169",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 360,
+					"MaxLootQuantity": 360
+				},
+				"Rock_554": {
+					"RockName": "Rock_185",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 360,
+					"MaxLootQuantity": 360
+				},
+				"Rock_201": {
+					"RockName": "Rock_130",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 16,
+					"MaxLootQuantity": 16
+				},
+				"Rock_823": {
+					"RockName": "Rock_155",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_741": {
+					"RockName": "Rock_73",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_191": {
+					"RockName": "Rock_120",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_161": {
+					"RockName": "Rock_90",
+					"TimeMined": -1,
+					"Health": 23,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 190,
+					"MaxLootQuantity": 190
+				},
+				"Rock_1064": {
+					"RockName": "Rock_23",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 190,
+					"MaxLootQuantity": 190
+				},
+				"Rock_785": {
+					"RockName": "Rock_117",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_780": {
+					"RockName": "Rock_112",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 18,
+					"MaxLootQuantity": 18
+				},
+				"Rock_222": {
+					"RockName": "Rock_151",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_693": {
+					"RockName": "Rock_25",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_616": {
+					"RockName": "Rock_6",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 80,
+					"MaxLootQuantity": 80
+				},
+				"Rock_537": {
+					"RockName": "Rock_168",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 150,
+					"MaxLootQuantity": 150
+				},
+				"Rock_549": {
+					"RockName": "Rock_180",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 18,
+					"MaxLootQuantity": 18
+				},
+				"Rock_891": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_23": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_643": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_309": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_1079": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_199": {
+					"RockName": "Rock_128",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_186": {
+					"RockName": "Rock_115",
+					"TimeMined": -1,
+					"Health": 5,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_486": {
+					"RockName": "Rock_117",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_339": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_790": {
+					"RockName": "Rock_122",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_206": {
+					"RockName": "Rock_135",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_991": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_733": {
+					"RockName": "Rock_65",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_1020": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_450": {
+					"RockName": "Rock_81",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_353": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_999": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_1061": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_163": {
+					"RockName": "Rock_92",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_31": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_194": {
+					"RockName": "Rock_123",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_803": {
+					"RockName": "Rock_135",
+					"TimeMined": 1764091277,
+					"Health": -8,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_19": {
+					"RockName": "Rock_5",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 180,
+					"MaxLootQuantity": 180
+				},
+				"Rock_429": {
+					"RockName": "Rock_60",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_1090": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_988": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_92": {
+					"RockName": "Rock_21",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_798": {
+					"RockName": "Rock_130",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_540": {
+					"RockName": "Rock_171",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 460,
+					"MaxLootQuantity": 460
+				},
+				"Rock_20": {
+					"RockName": "Rock_6",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_1099": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 140,
+					"MaxLootQuantity": 140
+				},
+				"Rock_670": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 2,
+					"MaxLootQuantity": 2
+				},
+				"Rock_28": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 220,
+					"MaxLootQuantity": 220
+				},
+				"Rock_4": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 180,
+					"MaxLootQuantity": 180
+				},
+				"Rock_35": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 240,
+					"MaxLootQuantity": 240
+				},
+				"Rock_403": {
+					"RockName": "Rock_34",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_167": {
+					"RockName": "Rock_96",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_493": {
+					"RockName": "Rock_124",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 340,
+					"MaxLootQuantity": 340
+				},
+				"Rock_95": {
+					"RockName": "Rock_24",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_203": {
+					"RockName": "Rock_132",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_1063": {
+					"RockName": "Rock_22",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 150,
+					"MaxLootQuantity": 150
+				},
+				"Rock_794": {
+					"RockName": "Rock_126",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 140,
+					"MaxLootQuantity": 140
+				},
+				"Rock_779": {
+					"RockName": "Rock_111",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_326": {
+					"RockName": "Rock_26",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 140,
+					"MaxLootQuantity": 140
+				},
+				"Rock_1011": {
+					"RockName": "Rock_23",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_495": {
+					"RockName": "Rock_126",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_1039": {
+					"RockName": "Rock_8",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_819": {
+					"RockName": "Rock_151",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_1014": {
+					"RockName": "Rock_26",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_233": {
+					"RockName": "Rock_162",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_782": {
+					"RockName": "Rock_114",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_13": {
+					"RockName": "Rock_7",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 120,
+					"MaxLootQuantity": 120
+				},
+				"Rock_536": {
+					"RockName": "Rock_167",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_11": {
+					"RockName": "Rock_5",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 90,
+					"MaxLootQuantity": 90
+				},
+				"Rock_1051": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_459": {
+					"RockName": "Rock_90",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_1029": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_824": {
+					"RockName": "Rock_156",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_599": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_1070": {
+					"RockName": "Rock_29",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_322": {
+					"RockName": "Rock_22",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_514": {
+					"RockName": "Rock_145",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_953": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_10": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_392": {
+					"RockName": "Rock_23",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_810": {
+					"RockName": "Rock_142",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_665": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_614": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_969": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_791": {
+					"RockName": "Rock_123",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_1143": {
+					"RockName": "Rock_18",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_977": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_815": {
+					"RockName": "Rock_147",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 80,
+					"MaxLootQuantity": 80
+				},
+				"Rock_849": {
+					"RockName": "Rock_181",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 18,
+					"MaxLootQuantity": 18
+				},
+				"Rock_382": {
+					"RockName": "Rock_13",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 2,
+					"MaxLootQuantity": 2
+				},
+				"Rock_853": {
+					"RockName": "Rock_185",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_395": {
+					"RockName": "Rock_26",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_683": {
+					"RockName": "Rock_15",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_422": {
+					"RockName": "Rock_53",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 16,
+					"MaxLootQuantity": 16
+				},
+				"Rock_227": {
+					"RockName": "Rock_156",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 90,
+					"MaxLootQuantity": 90
+				},
+				"Rock_942": {
+					"RockName": "Rock_19",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 140,
+					"MaxLootQuantity": 140
+				},
+				"Rock_295": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 180,
+					"MaxLootQuantity": 180
+				},
+				"Rock_764": {
+					"RockName": "Rock_96",
+					"TimeMined": 1764091282,
+					"Health": -5,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 130,
+					"MaxLootQuantity": 130
+				},
+				"Rock_1093": {
+					"RockName": "Rock_3",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_574": {
+					"RockName": "Rock_205",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_890": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_871": {
+					"RockName": "Rock_203",
+					"TimeMined": 1764091305,
+					"Health": -3,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_492": {
+					"RockName": "Rock_123",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_332": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_355": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_754": {
+					"RockName": "Rock_86",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_1013": {
+					"RockName": "Rock_25",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 130,
+					"MaxLootQuantity": 130
+				},
+				"Rock_597": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 200,
+					"MaxLootQuantity": 200
+				},
+				"Rock_250": {
+					"RockName": "Rock_179",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_679": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_1133": {
+					"RockName": "Rock_8",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_830": {
+					"RockName": "Rock_162",
+					"TimeMined": 1764091277,
+					"Health": -5,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_550": {
+					"RockName": "Rock_181",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_792": {
+					"RockName": "Rock_124",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_825": {
+					"RockName": "Rock_157",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_1059": {
+					"RockName": "Rock_18",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_528": {
+					"RockName": "Rock_159",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_488": {
+					"RockName": "Rock_119",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_809": {
+					"RockName": "Rock_141",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_1077": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_831": {
+					"RockName": "Rock_163",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_555": {
+					"RockName": "Rock_186",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 400,
+					"MaxLootQuantity": 400
+				},
+				"Rock_516": {
+					"RockName": "Rock_147",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 280,
+					"MaxLootQuantity": 280
+				},
+				"Rock_239": {
+					"RockName": "Rock_168",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 300,
+					"MaxLootQuantity": 300
+				},
+				"Rock_503": {
+					"RockName": "Rock_134",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_1097": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 280,
+					"MaxLootQuantity": 280
+				},
+				"Rock_766": {
+					"RockName": "Rock_98",
+					"TimeMined": 1764091282,
+					"Health": -5,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_873": {
+					"RockName": "Rock_205",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_964": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 50,
+					"MaxLootQuantity": 50
+				},
+				"Rock_344": {
+					"RockName": "Rock_14",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_980": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_311": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 75,
+					"MaxLootQuantity": 75
+				},
+				"Rock_669": {
+					"RockName": "Rock_1",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_840": {
+					"RockName": "Rock_172",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 12,
+					"MaxLootQuantity": 12
+				},
+				"Rock_213": {
+					"RockName": "Rock_142",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Energy",
+						"LootType": {
+							"value__": 2
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 3
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 4,
+							"MinMaxWeightFactor": 0.35
+						},
+						"IncrementSize": 25,
+						"PrefabName": "Loot-Energy"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_496": {
+					"RockName": "Rock_127",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_461": {
+					"RockName": "Rock_92",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_381": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_602": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_149": {
+					"RockName": "Rock_78",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_976": {
+					"RockName": "Rock_11",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_796": {
+					"RockName": "Rock_128",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 11,
+					"MaxLootQuantity": 11
+				},
+				"Rock_400": {
+					"RockName": "Rock_31",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_325": {
+					"RockName": "Rock_25",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_718": {
+					"RockName": "Rock_50",
+					"TimeMined": 1764091282,
+					"Health": -5,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_1105": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_784": {
+					"RockName": "Rock_116",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 19,
+					"MaxLootQuantity": 19
+				},
+				"Rock_682": {
+					"RockName": "Rock_14",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 2,
+					"MaxLootQuantity": 2
+				},
+				"Rock_56": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Missiles",
+						"LootType": {
+							"value__": 8
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 3,
+							"MaxQuantity": 5,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 2,
+						"PrefabName": "Loot-Missiles"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_491": {
+					"RockName": "Rock_122",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_435": {
+					"RockName": "Rock_66",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_641": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 130,
+					"MaxLootQuantity": 130
+				},
+				"Rock_54": {
+					"RockName": "Rock_18",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 80,
+					"MaxLootQuantity": 80
+				},
+				"Rock_68": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 20,
+					"MaxLootQuantity": 20
+				},
+				"Rock_371": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 3,
+					"MaxLootQuantity": 3
+				},
+				"Rock_45": {
+					"RockName": "Rock_9",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_745": {
+					"RockName": "Rock_77",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_219": {
+					"RockName": "Rock_148",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_755": {
+					"RockName": "Rock_87",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 10,
+					"MaxLootQuantity": 10
+				},
+				"Rock_604": {
+					"RockName": "Rock_2",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 60,
+					"MaxLootQuantity": 60
+				},
+				"Rock_65": {
+					"RockName": "Rock_29",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 70,
+					"MaxLootQuantity": 70
+				},
+				"Rock_91": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 3,
+					"MaxLootQuantity": 3
+				},
+				"Rock_622": {
+					"RockName": "Rock_4",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 170,
+					"MaxLootQuantity": 170
+				},
+				"Rock_348": {
+					"RockName": "Rock_18",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 100,
+					"MaxLootQuantity": 100
+				},
+				"Rock_845": {
+					"RockName": "Rock_177",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 13,
+					"MaxLootQuantity": 13
+				},
+				"Rock_684": {
+					"RockName": "Rock_16",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_681": {
+					"RockName": "Rock_13",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_668": {
+					"RockName": "Rock_0",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 4,
+					"MaxLootQuantity": 4
+				},
+				"Rock_690": {
+					"RockName": "Rock_22",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_62": {
+					"RockName": "Rock_26",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 80,
+					"MaxLootQuantity": 80
+				},
+				"Rock_842": {
+					"RockName": "Rock_174",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 16,
+					"MaxLootQuantity": 16
+				},
+				"Rock_510": {
+					"RockName": "Rock_141",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Rail Rounds",
+						"LootType": {
+							"value__": 4
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 10,
+						"PrefabName": "Loot-RailRounds"
+					},
+					"LootQuantity": 80,
+					"MaxLootQuantity": 80
+				},
+				"Rock_385": {
+					"RockName": "Rock_16",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 2,
+					"MaxLootQuantity": 2
+				},
+				"Rock_1000": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_1028": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 30,
+					"MaxLootQuantity": 30
+				},
+				"Rock_243": {
+					"RockName": "Rock_172",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 16,
+					"MaxLootQuantity": 16
+				},
+				"Rock_94": {
+					"RockName": "Rock_23",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_499": {
+					"RockName": "Rock_130",
+					"TimeMined": -1,
+					"Health": 96,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 15,
+					"MaxLootQuantity": 15
+				},
+				"Rock_1067": {
+					"RockName": "Rock_26",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 25,
+					"MaxLootQuantity": 25
+				},
+				"Rock_552": {
+					"RockName": "Rock_183",
+					"TimeMined": -1,
+					"Health": 128,
+					"LootData": {
+						"Name": "Green Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 1
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 20,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_526": {
+					"RockName": "Rock_157",
+					"TimeMined": -1,
+					"Health": 32,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_231": {
+					"RockName": "Rock_160",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Credits",
+						"LootType": {
+							"value__": 16
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 1,
+							"MaxQuantity": 6,
+							"MinMaxWeightFactor": 0.4
+						},
+						"IncrementSize": 5,
+						"PrefabName": "Loot-Credits"
+					},
+					"LootQuantity": 5,
+					"MaxLootQuantity": 5
+				},
+				"Rock_1124": {
+					"RockName": "Rock_29",
+					"TimeMined": -1,
+					"Health": 13,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 260,
+					"MaxLootQuantity": 260
+				},
+				"Rock_136": {
+					"RockName": "Rock_65",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 160,
+					"MaxLootQuantity": 160
+				},
+				"Rock_839": {
+					"RockName": "Rock_171",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Health",
+						"LootType": {
+							"value__": 1
+						},
+						"CrystalType": {
+							"value__": 0
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 5,
+							"MaxQuantity": 25,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 20,
+						"PrefabName": "Loot-Health"
+					},
+					"LootQuantity": 260,
+					"MaxLootQuantity": 260
+				},
+				"Rock_83": {
+					"RockName": "Rock_12",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 7,
+					"MaxLootQuantity": 7
+				},
+				"Rock_384": {
+					"RockName": "Rock_15",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_90": {
+					"RockName": "Rock_19",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_86": {
+					"RockName": "Rock_15",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 6,
+					"MaxLootQuantity": 6
+				},
+				"Rock_85": {
+					"RockName": "Rock_14",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 9,
+					"MaxLootQuantity": 9
+				},
+				"Rock_389": {
+					"RockName": "Rock_20",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_695": {
+					"RockName": "Rock_27",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 14,
+					"MaxLootQuantity": 14
+				},
+				"Rock_81": {
+					"RockName": "Rock_10",
+					"TimeMined": -1,
+					"Health": 64,
+					"LootData": {
+						"Name": "Blue Crystal",
+						"LootType": {
+							"value__": 32
+						},
+						"CrystalType": {
+							"value__": 2
+						},
+						"PickupMode": {
+							"value__": 1
+						},
+						"PickupPermissions": {
+							"value__": 2
+						},
+						"QuantityMinMax": {
+							"MinQuantity": 2,
+							"MaxQuantity": 15,
+							"MinMaxWeightFactor": 0.5
+						},
+						"IncrementSize": 1,
+						"PrefabName": "Loot-Crystals"
+					},
+					"LootQuantity": 8,
+					"MaxLootQuantity": 8
+				},
+				"Rock_767": {
+					"RockName": "Rock_99",
+					"TimeMined": 1764091276,
+					"Health": -5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_714": {
+					"RockName": "Rock_46",
+					"TimeMined": 1764091276,
+					"Health": -5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_872": {
+					"RockName": "Rock_204",
+					"TimeMined": -1,
+					"Health": 1,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_716": {
+					"RockName": "Rock_48",
+					"TimeMined": 1764091277,
+					"Health": -5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_729": {
+					"RockName": "Rock_61",
+					"TimeMined": -1,
+					"Health": 23,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_829": {
+					"RockName": "Rock_161",
+					"TimeMined": 1764091277,
+					"Health": -5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_727": {
+					"RockName": "Rock_59",
+					"TimeMined": -1,
+					"Health": 55,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_814": {
+					"RockName": "Rock_146",
+					"TimeMined": 1764091277,
+					"Health": -8,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_721": {
+					"RockName": "Rock_53",
+					"TimeMined": 1764091277,
+					"Health": -8,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_804": {
+					"RockName": "Rock_136",
+					"TimeMined": 1764091277,
+					"Health": -8,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_805": {
+					"RockName": "Rock_137",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_706": {
+					"RockName": "Rock_38",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_181": {
+					"RockName": "Rock_110",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_696": {
+					"RockName": "Rock_28",
+					"TimeMined": -1,
+					"Health": 23,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_132": {
+					"RockName": "Rock_61",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_164": {
+					"RockName": "Rock_93",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_160": {
+					"RockName": "Rock_89",
+					"TimeMined": 1764091277,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_168": {
+					"RockName": "Rock_97",
+					"TimeMined": 1764091277,
+					"Health": -5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_715": {
+					"RockName": "Rock_47",
+					"TimeMined": 1764091305,
+					"Health": -1,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_762": {
+					"RockName": "Rock_94",
+					"TimeMined": -1,
+					"Health": 4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_758": {
+					"RockName": "Rock_90",
+					"TimeMined": 1764091282,
+					"Health": -4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_836": {
+					"RockName": "Rock_168",
+					"TimeMined": -1,
+					"Health": 5,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_757": {
+					"RockName": "Rock_89",
+					"TimeMined": -1,
+					"Health": 14,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_760": {
+					"RockName": "Rock_92",
+					"TimeMined": -1,
+					"Health": 27,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_734": {
+					"RockName": "Rock_66",
+					"TimeMined": 1764091313,
+					"Health": -1,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				},
+				"Rock_732": {
+					"RockName": "Rock_64",
+					"TimeMined": -1,
+					"Health": 4,
+					"LootData": null,
+					"LootQuantity": 0,
+					"MaxLootQuantity": 0
+				}
+			}
+		}
+	]
+}

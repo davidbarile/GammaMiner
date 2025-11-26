@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7285f7483eb7443df88b58032bd58d6b, type: 3}
+  m_Name: PlanetColorConfig_14
+  m_EditorClassIdentifier: 
+  BaseColor1: {r: 0.5471698, g: 0.26584196, b: 0.38536033, a: 1}
+  BaseColor2: {r: 0.5471698, g: 0.26584196, b: 0.38536033, a: 1}
+  OutlineColor1: {r: 0.3301887, g: 0.16665184, b: 0.24006763, a: 1}
+  OutlineColor2: {r: 0.3301887, g: 0.16665184, b: 0.24006763, a: 1}
+  RingColors:
+  - {r: 0.4392157, g: 0.5764706, b: 1, a: 0.8}
+  - {r: 0.2943663, g: 0.3499668, b: 0.990566, a: 0.80784315}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0.4009434, g: 0.924173, b: 1, a: 0.69803923}
+  - {r: 0, g: 0.78431374, b: 1, a: 0.29411766}
+  - {r: 1, g: 1, b: 1, a: 0.40392157}
+  CloudOrStripeColors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0.6226415, g: 0.30838376, b: 0.43753073, a: 0.4745098}
+  - {r: 0, g: 0, b: 0, a: 0}
+  DustColors:
+  - {r: 1, g: 1, b: 1, a: 0.34901962}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 1, g: 1, b: 1, a: 0.16078432}
+  - {r: 1, g: 1, b: 1, a: 0.16078432}
+  - {r: 1, g: 1, b: 1, a: 0.29803923}
+  - {r: 1, g: 1, b: 1, a: 0.29803923}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 1, g: 1, b: 1, a: 0.34901962}

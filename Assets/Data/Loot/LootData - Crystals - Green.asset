@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3d5d7897e76f40b0958f7398bdb8bba, type: 3}
+  m_Name: LootData - Crystals - Green
+  m_EditorClassIdentifier: 
+  Name: Green Crystal
+  LootType: 32
+  CrystalData:
+    Name: 
+    CrystalType: 8
+    CrystalColor: {r: 0.14122522, g: 1, b: 0, a: 1}
+    RadioactivityLevel: 0
+  CrystalType: 1
+  PickupMode: 1
+  PickupPermissions: 2
+  QuantityMinMax:
+    MinQuantity: 5
+    MaxQuantity: 20
+    MinMaxWeightFactor: 0.5
+  IncrementSize: 1
+  PrefabName: Loot-Crystals

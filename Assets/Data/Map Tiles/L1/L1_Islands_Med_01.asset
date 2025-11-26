@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09750d1d7980433abd49e52fe31ed50, type: 3}
+  m_Name: L1_Islands_Med_01
+  m_EditorClassIdentifier: Assembly-CSharp::LevelTileData
+  TileSceneName: L1_Islands_Med_01
+  FolderName: L1
+  TileThumbnail: {fileID: 21300000, guid: a768855db549f45228a783f74e48725b, type: 3}
+  TileGroup: 1

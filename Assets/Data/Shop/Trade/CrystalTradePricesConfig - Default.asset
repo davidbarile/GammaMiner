@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71be51615fc984037a83bdc5cae29b56, type: 3}
+  m_Name: CrystalTradePricesConfig - Default
+  m_EditorClassIdentifier: Assembly-CSharp::CrystalTradePricesConfig
+  minOffersPerWeekDay: 05000000020000000200000003000000030000000400000004000000
+  maxOffersPerWeekDay: 06000000030000000400000004000000040000000500000005000000
+  weekWeightFactor:
+  - 0.7
+  - 0.6
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.6
+  - 0.7
+  crystalTradePriceDatas:
+  - CrystalType: 1
+    PercentModifier: 0
+    BasePrice: 10
+    ChanceToAppearDayOfWeek:
+    - 0.5
+    - 0.7
+    - 0.8
+    - 1
+    - 0.8
+    - 0.7
+    - 0.5
+    MinPercentPerDayOfWeek: f1fffffffbffffff000000000000000000000000fbfffffff6ffffff
+    MaxPercentPerDayOfWeek: 0a000000050000000a0000000f0000000a000000050000000a000000
+    WeightFactor:
+    - 0.4
+    - 0.5
+    - 0.5
+    - 0.7
+    - 0.5
+    - 0.5
+    - 0.4
+  - CrystalType: 2
+    PercentModifier: 0
+    BasePrice: 15
+    ChanceToAppearDayOfWeek:
+    - 0.7
+    - 0.9
+    - 1
+    - 1
+    - 1
+    - 0.9
+    - 0.7
+    MinPercentPerDayOfWeek: f6fffffffbffffff00000000fbffffff00000000fbfffffff1ffffff
+    MaxPercentPerDayOfWeek: 0a000000050000000000000005000000000000000500000005000000
+    WeightFactor:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+  - CrystalType: 4
+    PercentModifier: 0
+    BasePrice: 20
+    ChanceToAppearDayOfWeek:
+    - 1
+    - 0.8
+    - 0.7
+    - 0.7
+    - 0.8
+    - 0.9
+    - 1
+    MinPercentPerDayOfWeek: fbffffff0000000000000000000000000000000000000000ecffffff
+    MaxPercentPerDayOfWeek: 28000000000000000000000000000000000000001400000032000000
+    WeightFactor:
+    - 0.3
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.35
+  - CrystalType: 8
+    PercentModifier: 0
+    BasePrice: 50
+    ChanceToAppearDayOfWeek:
+    - 0.6
+    - 0.25
+    - 0.15
+    - 0.15
+    - 0.25
+    - 0.4
+    - 0.75
+    MinPercentPerDayOfWeek: e2fffffff1ffffffecffffffecffffffecfffffff6ffffffecffffff
+    MaxPercentPerDayOfWeek: 1e0000000f0000000a0000000a0000000f0000001400000032000000
+    WeightFactor:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+  - CrystalType: 16
+    PercentModifier: 0
+    BasePrice: 75
+    ChanceToAppearDayOfWeek:
+    - 0.9
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.7
+    MinPercentPerDayOfWeek: ceffffff0000000000000000000000000000000000000000ceffffff
+    MaxPercentPerDayOfWeek: 14000000000000000000000000000000000000000000000005000000
+    WeightFactor:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+  - CrystalType: 32
+    PercentModifier: 0
+    BasePrice: 100
+    ChanceToAppearDayOfWeek:
+    - 0.8
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.6
+    MinPercentPerDayOfWeek: e7ffffff0000000000000000000000000000000000000000ceffffff
+    MaxPercentPerDayOfWeek: 0a000000000000000000000000000000000000000000000000000000
+    WeightFactor:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5

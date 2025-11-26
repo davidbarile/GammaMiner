@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09750d1d7980433abd49e52fe31ed50, type: 3}
+  m_Name: L3_Islands_Big_04
+  m_EditorClassIdentifier: Assembly-CSharp::LevelTileData
+  TileSceneName: L3_Islands_Big_04
+  FolderName: L3
+  TileThumbnail: {fileID: 21300000, guid: 4fe1e8687b0ea4b3da417b78f289a223, type: 3}
+  TileGroup: 3

@@ -1,0 +1,821 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad38d6e9c1374583be9b9e87d288e74, type: 3}
+  m_Name: Map-04_Spiral Out
+  m_EditorClassIdentifier: 
+  MapNum: 4
+  Name: Spiral Out
+  FileName: Lv-04_Spiral Out
+  StartTileCoords: {x: 10, y: 10}
+  NumTilesInLevel: 253
+  TileDataObjectsArray:
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: dfe573e34757546efb0a697df79193fd, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 06af1179a7bdc400ba7fafc83850ac9f, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: c9f1c4a7a760545a298f5d04a2e0aa67, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: e3aa6c42bde3748969be42f302faeb31, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 5a7c9a1e6b2604c14a39b2ee3238b487, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6708895dd83ed4095855640e3f29ac40, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 23093bfe40fe84318b19a6e649fe51d2, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: bd487f15bae0b4577b1bcfa6e68b3a3b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 5b897b80a098e44f7b03ce909f7a5407, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: e3aa6c42bde3748969be42f302faeb31, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: c9f1c4a7a760545a298f5d04a2e0aa67, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 5a7c9a1e6b2604c14a39b2ee3238b487, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 5b897b80a098e44f7b03ce909f7a5407, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 23093bfe40fe84318b19a6e649fe51d2, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: bd487f15bae0b4577b1bcfa6e68b3a3b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 52901edc2fa9c4540bad4cafb4542b81, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: c9f1c4a7a760545a298f5d04a2e0aa67, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 47415abe90ff64b03bc9efde405cdb6b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 47415abe90ff64b03bc9efde405cdb6b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 47415abe90ff64b03bc9efde405cdb6b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4848f95d4680e420ea086c0fd77f4474, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4848f95d4680e420ea086c0fd77f4474, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8c85f1e3ba8ec4508bb6c46e09967fa2, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: ccc401becd93c4f81b23e16904163c50, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: f7c989d3385e5407a83ae498b6a77e58, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 663db75511845495b83f6bc23c1cdfd4, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 0ab9b7aab5f7648caaa1f40e9ebaf589, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: fc29146f8e72842a883421b32d38ba5a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 44f024d2d43d44221a267546b6d644bb, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: bf19f37a51228412984df65101fc8992, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 4848f95d4680e420ea086c0fd77f4474, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 47415abe90ff64b03bc9efde405cdb6b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 47415abe90ff64b03bc9efde405cdb6b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: f7c989d3385e5407a83ae498b6a77e58, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 9ec6c96d58a444cf28e2dbf68f1ef71a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 5b897b80a098e44f7b03ce909f7a5407, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 76bc65f6210e94fad883d7947c9a93e0, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: bd487f15bae0b4577b1bcfa6e68b3a3b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: b6fd3bda077774bf7b30a21c1776b230, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 4848f95d4680e420ea086c0fd77f4474, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 5a7c9a1e6b2604c14a39b2ee3238b487, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 88bda5bd8005c4a69bb2889b76d7ae0b, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 06fe1978a18d049a08ea186d4f0601e2, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 52901edc2fa9c4540bad4cafb4542b81, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: c9f1c4a7a760545a298f5d04a2e0aa67, type: 2}
+    Rotation: 210
+  - TileData: {fileID: 11400000, guid: 06fe1978a18d049a08ea186d4f0601e2, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 0}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 90
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 4086572c0f78445c18c5b59780c53baf, type: 2}
+    Rotation: 0
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 270
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 6f8f106f8af294d258c8f2798d77bd0a, type: 2}
+    Rotation: 180
+  - TileData: {fileID: 11400000, guid: 8da98c18ad4d1464f9fa5e2c2d1dc937, type: 2}
+    Rotation: 180
+  ArrayDims: {x: 20, y: 20}

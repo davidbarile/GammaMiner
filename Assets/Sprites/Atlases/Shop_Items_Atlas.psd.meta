@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: f9d2e00074dba486aa071f6e50a5e166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5340594634865801657
+    second: Shop_Items_Atlas_0
+  - first:
+      213: -6123759715277452934
+    second: Shop_Items_Atlas_1
+  - first:
+      213: 757632812267807191
+    second: Shop_Items_Atlas_2
+  - first:
+      213: -1322771600230838388
+    second: Shop_Items_Atlas_3
+  - first:
+      213: 1757831415439492347
+    second: Shop_Items_Atlas_4
+  - first:
+      213: 4044451036020951758
+    second: Shop_Items_Atlas_5
+  - first:
+      213: -5414964535907920997
+    second: Shop_Items_Atlas_6
+  - first:
+      213: 5757126334330421350
+    second: Shop_Items_Atlas_7
+  - first:
+      213: -1952260203734222952
+    second: Shop_Items_Atlas_8
+  - first:
+      213: 5053322538020800352
+    second: Shop_Items_Atlas_9
+  - first:
+      213: 8992654874830657398
+    second: Shop_Items_Atlas_10
+  - first:
+      213: 4432705869084706084
+    second: Shop_Items_Atlas_11
+  - first:
+      213: 3626718549760504988
+    second: Shop_Items_Atlas_12
+  - first:
+      213: 6643280294246254513
+    second: Shop_Items_Atlas_13
+  - first:
+      213: -384480508177931161
+    second: Shop_Items_Atlas_14
+  - first:
+      213: 5709827110491405449
+    second: Shop_Items_Atlas_15
+  - first:
+      213: -4674098464436755552
+    second: Shop_Items_Atlas_16
+  - first:
+      213: -3701502777693342245
+    second: Shop_Items_Atlas_17
+  - first:
+      213: 8366706779666336611
+    second: Shop_Items_Atlas_18
+  - first:
+      213: 4158117246112885578
+    second: Shop_Items_Atlas_19
+  - first:
+      213: -2154151251947046971
+    second: Shop_Items_Atlas_20
+  - first:
+      213: -791039735043647759
+    second: Shop_Items_Atlas_21
+  - first:
+      213: 6364078455824348729
+    second: Shop_Items_Atlas_22
+  - first:
+      213: -2342930837344517266
+    second: Shop_Items_Atlas_23
+  - first:
+      213: 2044709111309763981
+    second: Shop_Items_Atlas_24
+  - first:
+      213: 5385421891632332444
+    second: Shop_Items_Atlas_25
+  - first:
+      213: -7647334593206674342
+    second: Shop_Items_Atlas_26
+  - first:
+      213: 4854459911316097626
+    second: Shop_Items_Atlas_27
+  - first:
+      213: 9059635702903332562
+    second: Shop_Items_Atlas_28
+  - first:
+      213: -3724034281307498126
+    second: Shop_Items_Atlas_29
+  - first:
+      213: 4865289122733922596
+    second: Shop_Items_Atlas_30
+  - first:
+      213: -1185081825014764634
+    second: Shop_Items_Atlas_31
+  - first:
+      213: -4193583983296427342
+    second: Shop_Items_Atlas_32
+  - first:
+      213: 6081735964283978754
+    second: Shop_Items_Atlas_33
+  - first:
+      213: -4299403645766003851
+    second: Shop_Items_Atlas_34
+  - first:
+      213: -1043599154444242742
+    second: Shop_Items_Atlas_35
+  - first:
+      213: 904430198721993905
+    second: Shop_Items_Atlas_36
+  - first:
+      213: -2119272977700463114
+    second: Shop_Items_Atlas_37
+  - first:
+      213: 2677138632976816024
+    second: Shop_Items_Atlas_38
+  - first:
+      213: 6458962803734058184
+    second: Shop_Items_Atlas_39
+  - first:
+      213: 7876743920625018655
+    second: Shop_Items_Atlas_40
+  - first:
+      213: 5052812820533919524
+    second: Shop_Items_Atlas_41
+  - first:
+      213: -5434867058755351768
+    second: Shop_Items_Atlas_42
+  - first:
+      213: -5820093537878525706
+    second: Shop_Items_Atlas_43
+  - first:
+      213: -7544702992698075458
+    second: Shop_Items_Atlas_44
+  - first:
+      213: 8835400098173305608
+    second: Shop_Items_Atlas_45
+  - first:
+      213: 6502085624555440417
+    second: Shop_Items_Atlas_46
+  - first:
+      213: -2801546262813239536
+    second: Shop_Items_Atlas_47
+  - first:
+      213: 3357489671013506819
+    second: Shop_Items_Atlas_48
+  - first:
+      213: 4435767913885927944
+    second: Shop_Items_Atlas_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Repairs_Category
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2127
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746877ba97562e5b0800000000000000
+      internalID: -5340594634865801657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Red
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2125
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a794a09ebf8040ba0800000000000000
+      internalID: -6123759715277452934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairs_Component
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2117
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d127655707a38a00800000000000000
+      internalID: 757632812267807191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decontaminate
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2110
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40b44eb52156810800000000000000
+      internalID: 1757831415439492347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_Category
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1808
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93deddb17e2ad4b0800000000000000
+      internalID: -5414964535907920997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactor4
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1527
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660cfc406eb65ef40800000000000000
+      internalID: 5757126334330421350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactor2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1514
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8973a4f20bd28e4e0800000000000000
+      internalID: -1952260203734222952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactor3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1507
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67757f9a6f35ccc70800000000000000
+      internalID: 8992654874830657398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactors_Category
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1504
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254590a082248d30800000000000000
+      internalID: 4432705869084706084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactor1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1524
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c947bca4e41b45230800000000000000
+      internalID: 3626718549760504988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reactor5
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1524
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b786e1ea3ca13c50800000000000000
+      internalID: 6643280294246254513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery_Category
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1510
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd57778c5de91acc0800000000000000
+      internalID: -3701502777693342245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery1
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1507
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b4dd5cc738c1470800000000000000
+      internalID: 8366706779666336611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery3
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1486
+        width: 364
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bebfcca9994b930800000000000000
+      internalID: 4158117246112885578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery4
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 1498
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bb3b79daea12e0800000000000000
+      internalID: -2154151251947046971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery2
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1472
+        width: 410
+        height: 410
+      alignment: 9
+      pivot: {x: 0.48289916, y: 0.48289916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f611855d89a505f0800000000000000
+      internalID: -791039735043647759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault_Category
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 958
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d858f987a14406c10800000000000000
+      internalID: 2044709111309763981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 958
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7b506dacdcba40800000000000000
+      internalID: 5385421891632332444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 959
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c1c5d64b53fd590800000000000000
+      internalID: -7647334593206674342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 953
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ace5eb1918e5340800000000000000
+      internalID: 4854459911316097626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 940
+        width: 324
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dedff9fbaa4abd70800000000000000
+      internalID: 9059635702903332562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault5
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 932
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2791a4b4d82915cc0800000000000000
+      internalID: -3724034281307498126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrusters_Category
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 653
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42990220eaaf48340800000000000000
+      internalID: 4865289122733922596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrusters1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 660
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab2936eb5ebd8fe0800000000000000
+      internalID: -1185081825014764634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrusters2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 635
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba49d3f5956dc5c0800000000000000
+      internalID: -4193583983296427342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrusters3
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 619
+        width: 290
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044dd813aaa66450800000000000000
+      internalID: 6081735964283978754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thrusters4
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 598
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5731914d9237554c0800000000000000
+      internalID: -4299403645766003851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shields_Category
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 414
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f37729146481f0800000000000000
+      internalID: -1043599154444242742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lasers1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 287
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcd5fe497e2d8c00800000000000000
+      internalID: 904430198721993905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lasers2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 278
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd54168474d692e0800000000000000
+      internalID: -2119272977700463114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lasers4
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 289
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897de01176b172520800000000000000
+      internalID: 2677138632976816024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lasers3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 320
+        width: 270
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4970ee278d2a950800000000000000
+      internalID: 6458962803734058184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Railgun3
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 623
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17629fecd0df4d60800000000000000
+      internalID: 7876743920625018655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lasers_Category
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb6744d723f1640800000000000000
+      internalID: 5052812820533919524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Railgun1
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 12
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4a6984397394b0800000000000000
+      internalID: -5434867058755351768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Railguns_Category
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8343373cfda3fa0800000000000000
+      internalID: -5820093537878525706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailRounds4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 40
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb697680a94db4790800000000000000
+      internalID: -7544702992698075458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailRounds3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 22
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803421cc395ad9a70800000000000000
+      internalID: 8835400098173305608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailRounds5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 44
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290dce0d6c0c3a50800000000000000
+      internalID: 6502085624555440417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailRounds1
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 54
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01791376488ee19d0800000000000000
+      internalID: -2801546262813239536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailRounds2
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 50
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f9dc92113389e20800000000000000
+      internalID: 3357489671013506819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Railgun2
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 12
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a0f3d7a630f8d30800000000000000
+      internalID: 4435767913885927944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile_1
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 32
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842fa6b0c96be437f9802dc93e865eb9
+      internalID: 1051054748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile_2
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 26
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed387d311ac41c497bdca76966d12d
+      internalID: -1295407943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile_3
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 34
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705964bed18444e3a82203e7c2f86b6a
+      internalID: 1956281240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2407
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2450a2ed4904d6c9e82d648e782180
+      internalID: -389870187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Green
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2125
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0c355cf0ae4d799f2c4b5fe13470b
+      internalID: 1440796312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2125
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435fe7ca212a047ffa56d66244944c12
+      internalID: 187440537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warning
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2415
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53452181f9fcb49ce90ab92d72bde836
+      internalID: 1795400335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f6d8495faba9480eab35a8e3e0dc498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Battery1: 8366706779666336611
+      Battery2: -791039735043647759
+      Battery3: 4158117246112885578
+      Battery4: -2154151251947046971
+      Battery_Category: -3701502777693342245
+      Decontaminate: 1757831415439492347
+      Lasers1: 904430198721993905
+      Lasers2: -2119272977700463114
+      Lasers3: 6458962803734058184
+      Lasers4: 2677138632976816024
+      Lasers_Category: 5052812820533919524
+      Lock: -389870187
+      Missile_1: 1051054748
+      Missile_2: -1295407943
+      Missile_3: 1956281240
+      RailRounds1: -2801546262813239536
+      RailRounds2: 3357489671013506819
+      RailRounds3: 8835400098173305608
+      RailRounds4: -7544702992698075458
+      RailRounds5: 6502085624555440417
+      Railgun1: -5434867058755351768
+      Railgun2: 4435767913885927944
+      Railgun3: 7876743920625018655
+      Railguns_Category: -5820093537878525706
+      Reactor1: 3626718549760504988
+      Reactor2: -1952260203734222952
+      Reactor3: 8992654874830657398
+      Reactor4: 5757126334330421350
+      Reactor5: 6643280294246254513
+      Reactors_Category: 4432705869084706084
+      Repairs_Category: -5340594634865801657
+      Repairs_Component: 757632812267807191
+      Shields_Category: -1043599154444242742
+      Ships_Category: -5414964535907920997
+      Thrusters1: -1185081825014764634
+      Thrusters2: -4193583983296427342
+      Thrusters3: 6081735964283978754
+      Thrusters4: -4299403645766003851
+      Thrusters_Category: 4865289122733922596
+      Torch_Blue: 187440537
+      Torch_Green: 1440796312
+      Torch_Red: -6123759715277452934
+      Vault1: 5385421891632332444
+      Vault2: -7647334593206674342
+      Vault3: 9059635702903332562
+      Vault4: 4854459911316097626
+      Vault5: -3724034281307498126
+      Vault_Category: 2044709111309763981
+      Warning: 1795400335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 484fb3c66296449eeb50eb40f9a310f7, type: 3}
+  m_Name: Prog_05
+  m_EditorClassIdentifier: Assembly-CSharp::ProgressionConfig
+  lootSummary: "Loot items: 37-60\n   Energy: 9-25  (3-5 loot items)\n   Rail Rounds:
+    9-25  (3-5 loot items)\n   Missiles: 4-25  (2-5 loot items)\n   Crystals: 39-400 
+    (29-45 loot items)\n      Blue: 20-180  (10-12 loot items)\n      Red: 10-150 
+    (10-15 loot items)\n      Purple: 4-40  (4-8 loot items)\n      Black: 5-30 
+    (5-10 loot items)\n"
+  ProgressData:
+    Level: 2
+    CriteriaToComplete: 
+    RockLoot:
+    - LootData: {fileID: 11400000, guid: 3ec5f2dc235d546c08066cd72e3764a2, type: 2}
+      QuantityMinMax:
+        MinQuantity: 10
+        MaxQuantity: 12
+        MinMaxWeightFactor: 0.5
+    - LootData: {fileID: 11400000, guid: 1ed181c7c121446438a360172ca106f8, type: 2}
+      QuantityMinMax:
+        MinQuantity: 10
+        MaxQuantity: 15
+        MinMaxWeightFactor: 0.5
+    - LootData: {fileID: 11400000, guid: b96f41e27fcef4a4cb3557b9eba1b2d2, type: 2}
+      QuantityMinMax:
+        MinQuantity: 4
+        MaxQuantity: 8
+        MinMaxWeightFactor: 0.5
+    - LootData: {fileID: 11400000, guid: 1602747667cd3444cb59fdef3bf47c4e, type: 2}
+      QuantityMinMax:
+        MinQuantity: 5
+        MaxQuantity: 10
+        MinMaxWeightFactor: 0.4
+    - LootData: {fileID: 11400000, guid: 8f0f2e47d0f8f409cbb67ac774e25852, type: 2}
+      QuantityMinMax:
+        MinQuantity: 3
+        MaxQuantity: 5
+        MinMaxWeightFactor: 0.5
+    - LootData: {fileID: 11400000, guid: 2f97f821585f3465fa095c96431e417b, type: 2}
+      QuantityMinMax:
+        MinQuantity: 3
+        MaxQuantity: 5
+        MinMaxWeightFactor: 0.5
+    - LootData: {fileID: 11400000, guid: 96f72ac7de947478687c7c9db164ea7b, type: 2}
+      QuantityMinMax:
+        MinQuantity: 2
+        MaxQuantity: 5
+        MinMaxWeightFactor: 0.4

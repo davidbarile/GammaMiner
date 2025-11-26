@@ -1,0 +1,428 @@
+{
+	"RandomSeed": 608,
+	"CaptainName": "Cap'n Crunch",
+	"Credits": 399997646,
+	"CurrentLevelIndex": 0,
+	"MusicVolume": 0.5,
+	"EffectsVolume": 0.7,
+	"ShipData": {
+		"Name": "Stingray",
+		"Id": "ShipConfig_02 - Stingray",
+		"BasePrice": 2000,
+		"TotalPrice": 999,
+		"PrefabName": "Ship_Stingray",
+		"NumTotalTiles": 120,
+		"NumUsedExternalMounts": 0,
+		"MaxExternalMounts": 4,
+		"MaxShieldRings": 1,
+		"MaxTurrets": 0,
+		"HealthDatas": [
+			{
+				"Type": {
+					"value__": 0
+				},
+				"Health": 80
+			},
+			{
+				"Type": {
+					"value__": 1
+				},
+				"Health": 30
+			},
+			{
+				"Type": {
+					"value__": 2
+				},
+				"Health": 60
+			},
+			{
+				"Type": {
+					"value__": 2
+				},
+				"Health": 60
+			},
+			{
+				"Type": {
+					"value__": 2
+				},
+				"Health": 30
+			},
+			{
+				"Type": {
+					"value__": 2
+				},
+				"Health": 30
+			},
+			{
+				"Type": {
+					"value__": 4
+				},
+				"Health": 20
+			},
+			{
+				"Type": {
+					"value__": 9
+				},
+				"Health": 25
+			},
+			{
+				"Type": {
+					"value__": 9
+				},
+				"Health": 25
+			},
+			{
+				"Type": {
+					"value__": 8
+				},
+				"Health": 20
+			},
+			{
+				"Type": {
+					"value__": 8
+				},
+				"Health": 20
+			}
+		],
+		"DecelerationRate": 4.0,
+		"RotationSpeed": 6.0,
+		"ReactorData": {
+			"EnergyRechargeRate": 0.1,
+			"SpriteIndex": 0,
+			"ReactorColor": {
+				"r": 0.101960659,
+				"g": 1.0,
+				"b": 0.0,
+				"a": 1.0
+			},
+			"Name": "Reactor ",
+			"SubTitle": "Ion",
+			"Id": "ReactorConfig_01 - Ion",
+			"Price": 100,
+			"Quantity": 1,
+			"NumTilesRequired": 10
+		},
+		"BatteryData": {
+			"MaxEnergyCharge": 500.0,
+			"SpriteIndex": 0,
+			"Name": "Battery",
+			"SubTitle": "Small",
+			"Id": "BatteryConfig_01 - Small",
+			"Price": 100,
+			"Quantity": 1,
+			"NumTilesRequired": 10
+		},
+		"ShieldGeneratorData": {
+			"ChargeRate": 5.0,
+			"DischargeRate": 3.0,
+			"DelayToDischarge": 10.0,
+			"MaxShieldRings": 1,
+			"InnerShieldBrickHealth": 30.0,
+			"MiddleShieldBrickHealth": 0.0,
+			"OuterShieldBrickHealth": 0.0,
+			"Name": "Shield Generator",
+			"SubTitle": "1 Ring Small",
+			"Id": "ShieldGeneratorConfig_01 - 1 Ring Small",
+			"Price": 60,
+			"Quantity": 1,
+			"NumTilesRequired": 5
+		},
+		"VaultDatas": [
+			{
+				"StoredCrystalsDict": {
+					"Crystal1": 0,
+					"Crystal2": 0
+				},
+				"Capacity": 100,
+				"AllowedCrystalTypes": {
+					"value__": 3
+				},
+				"RadiationShielding": 0.0,
+				"RadiationLevel": 0.0,
+				"MaxRadiationLevel": 10.0,
+				"RadiationFlushes": 0,
+				"MaxRadiationFlushes": 5,
+				"SpriteIndex": 0,
+				"Name": "Vault",
+				"SubTitle": "Small",
+				"Id": "VaultConfig_01 - Small",
+				"Price": 50,
+				"Quantity": 1,
+				"NumTilesRequired": 10
+			}
+		],
+		"ThrusterDatas": [
+			{
+				"DischargeRate": 0.6,
+				"AccelerationRate": 15.0,
+				"MaxAcceleration": 0.0,
+				"NumExternalMountsRequired": 1,
+				"Name": "Thruster",
+				"SubTitle": "Small",
+				"Id": "ThrusterConfig_01 - Small",
+				"Price": 25,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			},
+			{
+				"DischargeRate": 0.6,
+				"AccelerationRate": 15.0,
+				"MaxAcceleration": 0.0,
+				"NumExternalMountsRequired": 1,
+				"Name": "Thruster",
+				"SubTitle": "Small",
+				"Id": "ThrusterConfig_01 - Small",
+				"Price": 25,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			},
+			{
+				"DischargeRate": 1.2,
+				"AccelerationRate": 20.0,
+				"MaxAcceleration": 0.0,
+				"NumExternalMountsRequired": 2,
+				"Name": "Thruster",
+				"SubTitle": "Medium",
+				"Id": "ThrusterConfig_02 - Medium",
+				"Price": 50,
+				"Quantity": 1,
+				"NumTilesRequired": 7
+			},
+			{
+				"DischargeRate": 0.6,
+				"AccelerationRate": 15.0,
+				"MaxAcceleration": 0.0,
+				"NumExternalMountsRequired": 1,
+				"Name": "Thruster",
+				"SubTitle": "Small",
+				"Id": "ThrusterConfig_01 - Small",
+				"Price": 25,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			},
+			{
+				"DischargeRate": 0.6,
+				"AccelerationRate": 15.0,
+				"MaxAcceleration": 0.0,
+				"NumExternalMountsRequired": 1,
+				"Name": "Thruster",
+				"SubTitle": "Small",
+				"Id": "ThrusterConfig_01 - Small",
+				"Price": 25,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			}
+		],
+		"RailgunDatas": [
+			{
+				"NumExternalMountsRequired": 1,
+				"RoundsPerSecond": 8.0,
+				"MaxRoundsLight": 150,
+				"MaxRoundsMedium": 100,
+				"MaxRoundsHeavy": 0,
+				"NumRoundsLight": 150,
+				"NumRoundsMedium": 100,
+				"NumRoundsHeavy": 0,
+				"PrefabName": "RailRound",
+				"Name": "RailGun",
+				"SubTitle": "Light",
+				"Id": "RailGunConfig_01 - Light",
+				"Price": 50,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			},
+			{
+				"NumExternalMountsRequired": 1,
+				"RoundsPerSecond": 8.0,
+				"MaxRoundsLight": 150,
+				"MaxRoundsMedium": 100,
+				"MaxRoundsHeavy": 0,
+				"NumRoundsLight": 150,
+				"NumRoundsMedium": 100,
+				"NumRoundsHeavy": 0,
+				"PrefabName": "RailRound",
+				"Name": "RailGun",
+				"SubTitle": "Light",
+				"Id": "RailGunConfig_01 - Light",
+				"Price": 50,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			},
+			{
+				"NumExternalMountsRequired": 1,
+				"RoundsPerSecond": 10.0,
+				"MaxRoundsLight": 300,
+				"MaxRoundsMedium": 200,
+				"MaxRoundsHeavy": 0,
+				"NumRoundsLight": 300,
+				"NumRoundsMedium": 200,
+				"NumRoundsHeavy": 0,
+				"PrefabName": "RailRound",
+				"Name": "RailGun",
+				"SubTitle": "Medium",
+				"Id": "RailGunConfig_02 - Medium",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			},
+			{
+				"NumExternalMountsRequired": 1,
+				"RoundsPerSecond": 10.0,
+				"MaxRoundsLight": 300,
+				"MaxRoundsMedium": 200,
+				"MaxRoundsHeavy": 0,
+				"NumRoundsLight": 300,
+				"NumRoundsMedium": 200,
+				"NumRoundsHeavy": 0,
+				"PrefabName": "RailRound",
+				"Name": "RailGun",
+				"SubTitle": "Medium",
+				"Id": "RailGunConfig_02 - Medium",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			}
+		],
+		"MissileLauncherDatas": [
+			{
+				"NumMissiles": 24,
+				"MaxMissiles": 24,
+				"CooldownTime": 1,
+				"PrefabName": "Missile-Light",
+				"NumExternalMountsRequired": 1,
+				"Name": "Missile Launcher",
+				"SubTitle": "Light",
+				"Id": "MissileLauncherConfig_01 - Light",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			},
+			{
+				"NumMissiles": 24,
+				"MaxMissiles": 24,
+				"CooldownTime": 1,
+				"PrefabName": "Missile-Light",
+				"NumExternalMountsRequired": 1,
+				"Name": "Missile Launcher",
+				"SubTitle": "Light",
+				"Id": "MissileLauncherConfig_01 - Light",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			},
+			{
+				"NumMissiles": 24,
+				"MaxMissiles": 24,
+				"CooldownTime": 1,
+				"PrefabName": "Missile-Light",
+				"NumExternalMountsRequired": 1,
+				"Name": "Missile Launcher",
+				"SubTitle": "Light",
+				"Id": "MissileLauncherConfig_01 - Light",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			},
+			{
+				"NumMissiles": 24,
+				"MaxMissiles": 24,
+				"CooldownTime": 1,
+				"PrefabName": "Missile-Light",
+				"NumExternalMountsRequired": 1,
+				"Name": "Missile Launcher",
+				"SubTitle": "Light",
+				"Id": "MissileLauncherConfig_01 - Light",
+				"Price": 100,
+				"Quantity": 1,
+				"NumTilesRequired": 3
+			}
+		],
+		"LaserCannonDatas": [
+			{
+				"IsMiningLaser": true,
+				"ChargeRate": 5.0,
+				"MaxCharge": 500,
+				"MiningLaserDamagePerSecond": 50.0,
+				"LaserColor": {
+					"r": 0.692883432,
+					"g": 0.2783019,
+					"b": 1.0,
+					"a": 1.0
+				},
+				"EnergyMeterGradientIndex": 3,
+				"PrefabName": "Laser",
+				"MiningToolType": {
+					"value__": 7
+				},
+				"NumExternalMountsRequired": 1,
+				"Name": "Mining Laser",
+				"SubTitle": "Purple",
+				"Id": "MiningLaserConfig_04 - Purple",
+				"Price": 200,
+				"Quantity": 1,
+				"NumTilesRequired": 6
+			},
+			{
+				"IsMiningLaser": true,
+				"ChargeRate": 3.8,
+				"MaxCharge": 400,
+				"MiningLaserDamagePerSecond": 38.0,
+				"LaserColor": {
+					"r": 1.0,
+					"g": 0.0,
+					"b": 0.0,
+					"a": 1.0
+				},
+				"EnergyMeterGradientIndex": 2,
+				"PrefabName": "Laser",
+				"MiningToolType": {
+					"value__": 6
+				},
+				"NumExternalMountsRequired": 1,
+				"Name": "Mining Laser",
+				"SubTitle": "Red",
+				"Id": "MiningLaserConfig_03 - Red",
+				"Price": 150,
+				"Quantity": 1,
+				"NumTilesRequired": 5
+			}
+		],
+		"TurretDatas": [ ]
+	},
+	"FavoritePlanetSeeds": [ ],
+	"ActiveItems": {
+		"VaultConfig_01 - Small": 1,
+		"ThrusterConfig_01 - Small": 4,
+		"RailGunConfig_01 - Light": 2,
+		"MissileLauncherConfig_02 - Medium": 6,
+		"MiningLaserConfig_04 - Purple": 1,
+		"ThrusterConfig_02 - Medium": 1,
+		"RailGunConfig_02 - Medium": 2,
+		"MissileLauncherConfig_01 - Light": 4,
+		"MiningLaserConfig_03 - Red": 1
+	},
+	"OwnedItems": {
+		"ShipConfig_01 - Scout Default": 1,
+		"ReactorConfig_01 - Ion": 1,
+		"BatteryConfig_01 - Small": 1,
+		"VaultConfig_01 - Small": 1,
+		"ThrusterConfig_01 - Small": 4,
+		"RailGunConfig_01 - Light": 2,
+		"MissileLauncherConfig_02 - Medium": 6,
+		"LaserCannonConfig_01 - Light": 2,
+		"ShieldGeneratorConfig_01 - 1 Ring Small": 1,
+		"ThrusterConfig_02 - Medium": 1,
+		"RailGunConfig_02 - Medium": 2,
+		"MissileLauncherConfig_01 - Light": 4,
+		"LaserCannonConfig_02 - Medium": 2,
+		"ShipConfig_02 - Stingray": 1,
+		"MiningLaserConfig_04 - Purple": 1,
+		"MiningLaserConfig_03 - Red": 1
+	},
+	"StartDay": 25,
+	"StartMonth": 11,
+	"StartYear": 2025,
+	"PriceDay": 0,
+	"PriceDayOfWeek": 0,
+	"PriceRandomSeed": 0
+}

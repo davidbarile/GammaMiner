@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3d5d7897e76f40b0958f7398bdb8bba, type: 3}
+  m_Name: LootData - Energy
+  m_EditorClassIdentifier: 
+  Name: Energy
+  LootType: 2
+  CrystalData:
+    CrystalType: 0
+    CrystalColor: {r: 1, g: 1, b: 1, a: 1}
+  PickupMode: 3
+  PickupPermissions: 2
+  QuantityMinMax:
+    MinQuantity: 1
+    MaxQuantity: 4
+    MinMaxWeightFactor: 0.35
+  IncrementSize: 25
+  PrefabName: Loot-Energy

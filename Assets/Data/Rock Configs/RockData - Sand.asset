@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e1bc0df92ba48c5bda720465de171b, type: 3}
+  m_Name: RockData - Sand
+  m_EditorClassIdentifier: 
+  Name: Sand
+  FillColor: {r: 0.7529412, g: 0.7005265, b: 0.5820235, a: 1}
+  OutlineColor: {r: 0.5882353, g: 0.5254361, b: 0.38588235, a: 1}
+  BaseHealth: 4
+  DoesDamageOnImpact: 0
+  ImpactDamageBase: 0
+  ImpactDamagePerSecondBase: 0
+  IsAnimatedTexture: 0
+  RockAnimColors: []
+  AnimCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ChangePerFrame: 0.01
+  ShouldAnimateOutline: 0
+  RockOutlineColors: []
+  OutlineAnimCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  OutlineChangePerFrame: 0.01
+  RockOutlineWidths: []
+  Hardness: 1
+  RockType: 1
+  LootType: 4095
+  CrystalType: 8
