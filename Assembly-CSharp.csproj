@@ -177,6 +177,7 @@
     <Compile Include="Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Noise.cs" />
     <Compile Include="Assets/Scripts/UIShopCategoryButton.cs" />
     <Compile Include="Assets/TotalJSON/Scripts/Exceptions/JSONKeyNotFoundException.cs" />
+    <Compile Include="Assets/Scripts/Benchmarker.cs" />
     <Compile Include="Assets/Scripts/Data/Configs/CrystalTradePricesConfig.cs" />
     <Compile Include="Assets/2DxFX/Scripts/_2dxFX_GoldenFX.cs" />
     <Compile Include="Assets/2DxFX/Scripts/_2dxFX_Blood.cs" />
@@ -236,6 +237,7 @@
     <Compile Include="Assets/Scripts/UiVaultDisplay.cs" />
     <Compile Include="Assets/2DxFX/Scripts/_2dxFX_BurningFX.cs" />
     <Compile Include="Assets/2DxFX/Scripts/_2dxFX_CompressionFX.cs" />
+    <Compile Include="Assets/Scripts/Data/BenchmarkTest.cs" />
     <Compile Include="Assets/2DxFX/Scripts/_2dxFX_PlasmaRainbow_Color.cs" />
     <Compile Include="Assets/ProceduralUIImage/Scripts/ProceduralImageModifier.cs" />
     <Compile Include="Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Clipping.cs" />
