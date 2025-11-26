@@ -1,25 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c167d78e73d542ca895777bb1038ba2, type: 3}
-  m_Name: BatteryConfig_01 - Small
-  m_EditorClassIdentifier: 
-  Name: Battery
-  SubTitle: Small
-  Id: BatteryConfig_01 - Small
-  Price: 100
-  ShopItemType: 5
-  Sprite: {fileID: 8366706779666336611, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  Space: 0
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  NumTilesRequired: 10
-  MaxEnergyCharge: 500
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f84f7598f8a114c5c95bb8b476047c617d0146cde2a7043cec553f0d0a71ae
+size 703

@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3d5d7897e76f40b0958f7398bdb8bba, type: 3}
-  m_Name: LootData - Credits
-  m_EditorClassIdentifier: 
-  Name: Credits
-  LootType: 16
-  CrystalData:
-    CrystalType: 0
-    CrystalColor: {r: 1, g: 1, b: 1, a: 1}
-  PickupMode: 1
-  PickupPermissions: 2
-  QuantityMinMax:
-    MinQuantity: 1
-    MaxQuantity: 6
-    MinMaxWeightFactor: 0.4
-  IncrementSize: 5
-  PrefabName: Loot-Credits
+version https://git-lfs.github.com/spec/v1
+oid sha256:692acab1455e962c585e61b98b6d69a3cc37fc2da8f01e5785693bc6b78ce4d3
+size 684

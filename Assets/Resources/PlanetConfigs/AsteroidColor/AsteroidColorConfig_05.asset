@@ -1,30 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8248925ad176c4703ab3ed13fb7dad47, type: 3}
-  m_Name: AsteroidColorConfig_05
-  m_EditorClassIdentifier: 
-  Outline1Colors:
-  - {r: 0.2830189, g: 0.26032397, b: 0.2830189, a: 1}
-  - {r: 0.31563726, g: 0.3645965, b: 0.38679248, a: 1}
-  - {r: 0.21039516, g: 0.21841751, b: 0.2264151, a: 1}
-  Outline2Colors:
-  - {r: 0.532, g: 0.48925, b: 0.532, a: 1}
-  - {r: 0.5262985, g: 0.6140149, b: 0.65300006, a: 1}
-  - {r: 0.47627184, g: 0.49115533, b: 0.511, a: 1}
-  Fill1Colors:
-  - {r: 0.5113815, g: 0.48705053, b: 0.5188679, a: 1}
-  - {r: 0.60693747, g: 0.67275, b: 0.70199996, a: 1}
-  - {r: 0.397, g: 0.397, b: 0.397, a: 1}
-  Fill2Colors:
-  - {r: 0.8232786, g: 0.7866885, b: 0.83699995, a: 1}
-  - {r: 0.8206383, g: 0.90957445, b: 0.95, a: 1}
-  - {r: 0.739, g: 0.739, b: 0.739, a: 1}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e022321f35dd50de0ddbb595bf50fddc28fef12a98d342e23d7aa2e2b798af5e
+size 1081

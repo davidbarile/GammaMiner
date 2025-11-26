@@ -1,32 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81d3a941c2cc540179b6bad7174546da, type: 3}
-  m_Name: VaultConfig_08 - Vast Shielded
-  m_EditorClassIdentifier: 
-  Name: Vault
-  SubTitle: Vast Shielded
-  Id: VaultConfig_08 - Vast Shielded
-  shouldAutoGenerateId: 1
-  Price: 500
-  ShopItemType: 6
-  Sprite: {fileID: -3724034281307498126, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 30
-  Color: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
-  OverwriteTypeDescription: 0
-  Description: 
-  Capacity: 460
-  AllowedCrystalTypes: 255
-  MaxRadiationLevel: 0
-  MaxRadiationFlushes: 0
-  RadiationShielding: 0.98
-  SpriteIndex: 3
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6d13f2eace11c8ff6fe4bea10bdf2be989615cc3221cef7fc13365292256cf8
+size 916

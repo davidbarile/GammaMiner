@@ -1,29 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 73eb46e54c454486889832ccee11f141, type: 3}
-  m_Name: ReactorConfig_03 - Fusion
-  m_EditorClassIdentifier: 
-  Name: Reactor
-  SubTitle: Fusion
-  Id: ReactorConfig_03 - Fusion
-  shouldAutoGenerateId: 1
-  Price: 250
-  ShopItemType: 4
-  Sprite: {fileID: 8992654874830657398, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 20
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  OverwriteTypeDescription: 0
-  Description: 
-  EnergyRechargeRate: 0.3
-  SpriteIndex: 2
-  ReactorColor: {r: 1, g: 0, b: 0, a: 1}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa55f1b4d59e35b8905769e42e0f70d089005a24529d5e064f44160c1893707
+size 828

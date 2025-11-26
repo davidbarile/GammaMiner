@@ -1,30 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3d5d7897e76f40b0958f7398bdb8bba, type: 3}
-  m_Name: LootData - Crystals - Purple
-  m_EditorClassIdentifier: 
-  Name: Purple Crystal
-  LootType: 32
-  CrystalData:
-    Name: 
-    CrystalType: 32
-    CrystalColor: {r: 0.7294118, g: 0.3333333, b: 0.8274511, a: 1}
-    RadioactivityLevel: 0
-  CrystalType: 8
-  PickupMode: 1
-  PickupPermissions: 2
-  QuantityMinMax:
-    MinQuantity: 1
-    MaxQuantity: 5
-    MinMaxWeightFactor: 0.4
-  IncrementSize: 1
-  PrefabName: Loot-Crystals
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a82ec01c2d8510412fca02b5eb5f828848cd3d66d3f38c0676d580429d8900
+size 781

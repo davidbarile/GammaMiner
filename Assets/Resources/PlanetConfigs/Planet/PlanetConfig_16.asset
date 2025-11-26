@@ -1,31 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68223e89354c3417da11e10d218563e9, type: 3}
-  m_Name: PlanetConfig_16
-  m_EditorClassIdentifier: 
-  RotationRange: {x: 75.88, y: 75.88}
-  ScaleRange: {x: 2, y: 2}
-  HasClouds: 1
-  CloudsAngleOffset: 64.17812
-  CloudRotationSpeed: 1
-  CloudDatas:
-  - IsVisible: 1
-    CloudRotationSpeed: 5
-  - IsVisible: 1
-    CloudRotationSpeed: 10
-  - IsVisible: 1
-    CloudRotationSpeed: 12
-  HasStripes: 0
-  StripesAngleOffset: 0
-  StripesRotationSpeed: 0
-  StripeDatas: []
-  HasCraters: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:41dc3944e46f0df6abc1a90b30070c967816c9ec6f028f50d0a69a7341e8bda2
+size 783

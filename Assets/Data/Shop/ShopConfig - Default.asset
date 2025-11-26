@@ -1,29 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c05c2f7e53a474e70b32e9296421dc6b, type: 3}
-  m_Name: ShopConfig - Default
-  m_EditorClassIdentifier: 
-  Name: Default Shop
-  categoryDatas:
-  - {fileID: 11400000, guid: 89089dfce3c9e48e399728fcea606ee9, type: 2}
-  - {fileID: 11400000, guid: 525880c70b74c4e3280a854824ae496c, type: 2}
-  - {fileID: 11400000, guid: 872aa6a2ee241477ea994372b4aa7821, type: 2}
-  - {fileID: 11400000, guid: ce596d8dcbcde475685686805beea3ae, type: 2}
-  - {fileID: 11400000, guid: ea57a9b2dc5f444cfbfa59d27786cc9e, type: 2}
-  - {fileID: 11400000, guid: d52e3b03e8b57451d88ab68fe1a7ca91, type: 2}
-  - {fileID: 11400000, guid: 589759d8daaf345c992723b7e3950f59, type: 2}
-  - {fileID: 11400000, guid: d85f9e9a5e12f4335b31b2295f93d42f, type: 2}
-  - {fileID: 11400000, guid: 47c313893eb9e48a085c27c895917fc0, type: 2}
-  - {fileID: 11400000, guid: b4d074d978ef941a1aa2d410b1bc5ef5, type: 2}
-  - {fileID: 11400000, guid: 19546b12224524c8ca3bded986ced8f7, type: 2}
-  - {fileID: 11400000, guid: ae395edaacce14a31aa51a58f7408b3a, type: 2}
-  - {fileID: 11400000, guid: 6622a7849bebe413681a368ead968b98, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8652c74b2c1ea312f495856b0c83fa242723045ce1456a4fbea1b23be427fb8
+size 1383

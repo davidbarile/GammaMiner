@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fad363fb39674475683ce9f88b0cd761, type: 3}
-  m_Name: TurretConfig_03 - Large
-  m_EditorClassIdentifier: 
-  Name: Turret
-  SubTitle: Large
-  Id: TurretConfig_03 - Large
-  shouldAutoGenerateId: 1
-  Price: 350
-  ShopItemType: 13
-  Sprite: {fileID: -389870187, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 15
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  NumExternalMountsRequired: 2
-  NumMounts: 4
-  RotationSpeed: 3
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ba18fba74fe8a65e04acdff2236ea9aad1f6100ceefc633cce9d9bd779ea079
+size 749

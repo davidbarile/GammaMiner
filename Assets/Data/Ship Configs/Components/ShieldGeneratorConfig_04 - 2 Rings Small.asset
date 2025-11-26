@@ -1,31 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b011b070eb3e418290f47b1cb8c5b8a, type: 3}
-  m_Name: ShieldGeneratorConfig_04 - 2 Rings Small
-  m_EditorClassIdentifier: 
-  Name: Shield Generator
-  SubTitle: 2 Rings Small
-  Id: ShieldGeneratorConfig_04 - 2 Rings Small
-  shouldAutoGenerateId: 1
-  Price: 150
-  ShopItemType: 9
-  Sprite: {fileID: -389870187, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 15
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  ChargeRate: 5
-  DischargeRate: 3
-  DelayToDischarge: 10
-  MaxShieldRings: 2
-  OuterShieldBrickHealth: 0
-  MiddleShieldBrickHealth: 25
-  InnerShieldBrickHealth: 40
+version https://git-lfs.github.com/spec/v1
+oid sha256:d263dbc07ab739fbb76b7630fe62aa0bdb65f630da9a3cce85b68b739b98131f
+size 900

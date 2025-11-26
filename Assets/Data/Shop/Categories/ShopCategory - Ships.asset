@@ -1,26 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0af3008f7e1164659960a555cd79f5bf, type: 3}
-  m_Name: ShopCategory - Ships
-  m_EditorClassIdentifier: 
-  Name: Ships
-  Sprite: {fileID: -5414964535907920997, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  ItemDatas:
-  - {fileID: 11400000, guid: e77e0dec68443416ea24a170e25d40ee, type: 2}
-  - {fileID: 11400000, guid: 9e13cda48e4fb409c9b9dc32dad6de36, type: 2}
-  - {fileID: 11400000, guid: 8b4941eead61f48f3a68fd0502492159, type: 2}
-  - {fileID: 11400000, guid: 5bcb7fb6dadfc4081bebd1a50b9d39f2, type: 2}
-  - {fileID: 11400000, guid: 36a8561360f6741f8b47404e7f8f5485, type: 2}
-  - {fileID: 11400000, guid: 0236b054eba404bf0b06e6ebcbddc9cd, type: 2}
-  - {fileID: 11400000, guid: af47f126bccae48399b2ab8f242ed545, type: 2}
-  - {fileID: 11400000, guid: 676a170c4c3b6443b847c5bc347464d4, type: 2}
-  - {fileID: 11400000, guid: f87885552a2f5492e8d1a5e582db816e, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aef40d865d794dc5d678f9992c5ace4655ab0a2f668c72b39b83ec445960984
+size 1174

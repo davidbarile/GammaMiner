@@ -1,18 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1ff4b064e7a54b9299cb7150ff53373, type: 3}
-  m_Name: MoonColorConfig_06
-  m_EditorClassIdentifier: 
-  OutlineColor1: {r: 0.63387996, g: 0.3949359, b: 0.6698113, a: 1}
-  FillColor1: {r: 0.97544426, g: 0.6775098, b: 0.990566, a: 1}
-  OutlineColor2: {r: 0.84490097, g: 0.624911, b: 0.8773585, a: 1}
-  FillColor2: {r: 0.99326146, g: 0.8820755, b: 1, a: 1}
+version https://git-lfs.github.com/spec/v1
+oid sha256:27638f6e5a7e266dce0ffd51af67017703cc3ac1d826e85db6adef629b7b656b
+size 659

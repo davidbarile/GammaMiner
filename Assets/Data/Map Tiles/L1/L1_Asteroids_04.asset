@@ -1,18 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b09750d1d7980433abd49e52fe31ed50, type: 3}
-  m_Name: L1_Asteroids_04
-  m_EditorClassIdentifier: Assembly-CSharp::LevelTileData
-  TileSceneName: L1_Asteroids_04
-  FolderName: L1
-  TileThumbnail: {fileID: 21300000, guid: 78fb2213af3f446a78f3da7225f56d26, type: 3}
-  TileGroup: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:2676e17d3e342abb089a7d8f980c9bfb5962a70bfc0d5b7a739c241f5fe29046
+size 584

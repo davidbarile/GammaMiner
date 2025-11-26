@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3d5d7897e76f40b0958f7398bdb8bba, type: 3}
-  m_Name: LootData - Missiles
-  m_EditorClassIdentifier: 
-  Name: Missiles
-  LootType: 8
-  CrystalData:
-    CrystalType: 0
-    CrystalColor: {r: 1, g: 1, b: 1, a: 1}
-  PickupMode: 1
-  PickupPermissions: 2
-  QuantityMinMax:
-    MinQuantity: 3
-    MaxQuantity: 5
-    MinMaxWeightFactor: 0.5
-  IncrementSize: 2
-  PrefabName: Loot-Missiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4d260b0dc7fdba2775ae9ff050aa67124470c23057625a6486e51b7dbaeb1f
+size 686

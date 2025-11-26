@@ -1,21 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 628f255ef8c1d40c1b4fb5efda868c41, type: 3}
-  m_Name: RingConfig_04
-  m_EditorClassIdentifier: 
-  HasRings: 0
-  RingsScale: 1
-  RingsAngleOffset: 0
-  RingsRotationSpeed: 0
-  RingFlattenAmount: 0
-  RingDatas: []
-  DustDatas: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:e74cddb1846a9436869e51ea583b2ef5881594871e257361b2e428b9cb771bd8
+size 533

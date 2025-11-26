@@ -1,25 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0af3008f7e1164659960a555cd79f5bf, type: 3}
-  m_Name: ShopCategory - Vaults
-  m_EditorClassIdentifier: 
-  Name: Vaults
-  Sprite: {fileID: 2044709111309763981, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  ItemDatas:
-  - {fileID: 11400000, guid: e0b20b8d71bca4948ba204789acbad1c, type: 2}
-  - {fileID: 11400000, guid: f7494945c34fb40ec85b9d469b0ebd4e, type: 2}
-  - {fileID: 11400000, guid: d3f2363f217194c31b4cdf55c5118152, type: 2}
-  - {fileID: 11400000, guid: ad827be48fa8e49849fe848c0f289fd6, type: 2}
-  - {fileID: 11400000, guid: b970bb3361e4a4392b62fba77d0fd388, type: 2}
-  - {fileID: 11400000, guid: 1e7f97b9bf3f24cb7a6e33bdd7278611, type: 2}
-  - {fileID: 11400000, guid: 4ebfd50d4964848e58c9ce52e81f58c2, type: 2}
-  - {fileID: 11400000, guid: 8ba9e80fd7e954e6bb1dc392048ab497, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:231e2f82dd8e46aa35eece247964e1698dcc551b98ced2bde7b9bb7ddc2017f7
+size 1103

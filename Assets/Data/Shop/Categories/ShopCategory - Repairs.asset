@@ -1,23 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0af3008f7e1164659960a555cd79f5bf, type: 3}
-  m_Name: ShopCategory - Repairs
-  m_EditorClassIdentifier: 
-  Name: Repairs
-  Sprite: {fileID: -5340594634865801657, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  ItemDatas:
-  - {fileID: 11400000, guid: 3df57fd9e5547455da7793e1dd3ed16b, type: 2}
-  - {fileID: 11400000, guid: 610fb7ff3d5034be6a3862fe37865cad, type: 2}
-  - {fileID: 11400000, guid: b8ae09806fb034e6083485c915ea9058, type: 2}
-  - {fileID: 11400000, guid: 1f6113aecb2da4e7a9e8d1c0ea0df185, type: 2}
-  - {fileID: 11400000, guid: 2cd28628a7189499ebcad5623000b47c, type: 2}
-  - {fileID: 11400000, guid: ea955c9ecf11342f69a5f5b9dd72e0a6, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9597aece142cc9d2fa3dabaffc589e202b641c020e60a9c2770a2a3d6482370
+size 962

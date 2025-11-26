@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff89a0a3128d048dbae89855097e70f8, type: 3}
-  m_Name: Divider
-  m_EditorClassIdentifier: 
-  Name: Spacer
-  SubTitle: 
-  Id: Spacer
-  shouldAutoGenerateId: 0
-  Price: 1000
-  ShopItemType: 0
-  Sprite: {fileID: 0}
-  Quantity: 1
-  NumTilesRequired: 0
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  RepairType: 0
-  ShouldCalculatePrice: 0
-  RepairAmount: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a33187c1dd4bae08d861a1067864c81794e287a9adaafc8f89d00e19edb997ab
+size 647

@@ -1,22 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0af3008f7e1164659960a555cd79f5bf, type: 3}
-  m_Name: ShopCategory - Reactors
-  m_EditorClassIdentifier: 
-  Name: Reactors
-  Sprite: {fileID: 4432705869084706084, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  ItemDatas:
-  - {fileID: 11400000, guid: 9b151ee678aa046f5b50110ad58781f0, type: 2}
-  - {fileID: 11400000, guid: 725532a76a6794bacb108457802e232b, type: 2}
-  - {fileID: 11400000, guid: 760e8214f028a42368ebb9088b763bbc, type: 2}
-  - {fileID: 11400000, guid: ccc4ac9c8ee564f16b8ca286522c939e, type: 2}
-  - {fileID: 11400000, guid: d45c4cd1f1f07480e9357ab24bc2306d, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:463923b96859d9851010f3fe531a93d1c29afee27c6af4e7e7064ec764d83472
+size 891

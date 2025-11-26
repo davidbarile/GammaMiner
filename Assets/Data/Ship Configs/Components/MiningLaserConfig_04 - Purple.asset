@@ -1,35 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c86183f94dee2438084e5f5e4f5051e4, type: 3}
-  m_Name: MiningLaserConfig_04 - Purple
-  m_EditorClassIdentifier: 
-  Name: Mining Laser
-  SubTitle: Purple
-  Id: MiningLaserConfig_04 - Purple
-  shouldAutoGenerateId: 1
-  Price: 200
-  ShopItemType: 8
-  Sprite: {fileID: 904430198721993905, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 6
-  Color: {r: 0.69288343, g: 0.2783019, b: 1, a: 1}
-  OverwriteTypeDescription: 0
-  Description: 
-  NumExternalMountsRequired: 1
-  IsMiningLaser: 1
-  ChargeRate: 5
-  MaxCharge: 500
-  MiningLaserDamagePerSecond: 50
-  LaserColor: {r: 0.69288343, g: 0.2783019, b: 1, a: 1}
-  EnergyMeterGradientIndex: 3
-  PrefabName: Laser
-  MiningToolType: 7
+version https://git-lfs.github.com/spec/v1
+oid sha256:0abc2718f7ea1503c0eebf243042629534dbe063911ed33956ccfd3aa5ef301a
+size 1014

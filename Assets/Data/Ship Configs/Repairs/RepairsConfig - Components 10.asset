@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff89a0a3128d048dbae89855097e70f8, type: 3}
-  m_Name: RepairsConfig - Components 10
-  m_EditorClassIdentifier: 
-  Name: Component Repairs
-  SubTitle: 10 Health
-  Id: RepairsConfig - Components 10
-  shouldAutoGenerateId: 1
-  Price: 25
-  ShopItemType: 14
-  Sprite: {fileID: 757632812267807191, guid: f9d2e00074dba486aa071f6e50a5e166, type: 3}
-  Quantity: 1
-  NumTilesRequired: 0
-  Color: {r: 1, g: 1, b: 1, a: 1}
-  RepairType: 3
-  ShouldCalculatePrice: 0
-  RepairAmount: 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:336dbfbdc4bf1cc69502c6899758e9974dc252cf99cd3bc7fbd01d89e3aaebda
+size 778
